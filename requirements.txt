@@ -21,6 +21,11 @@ pandas
 
 # Optional (better text splitting / newer versions sometimes require this)
 tiktoken
+
+# Other 
 torch
 requests
 shutil
+
+# Retrieval Methods 
+rank_bm25 

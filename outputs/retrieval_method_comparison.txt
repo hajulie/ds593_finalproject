@@ -1,0 +1,222 @@
+
+================================================================================
+CHUNKING METHOD: document_structure
+RETRIEVAL METHOD: similarity
+================================================================================
+Question: What is the impact of LLMs on copyright?
+
+Answer:
+
+The impact of LLMs on copyright is significant, as they can significantly reduce the impact of copyright infringement. LLMs can analyze large datasets and identify patterns and similarities in the content, which can help identify infringing works and prevent them from being uploaded or shared. This can help to reduce the number of copyright infringements and improve the overall quality of content on the internet.
+
+However, there are also potential downsides to LLMs. For example, LLMs may not be able to identify all copyrighted works, and they may not be able to identify infringing works that are not easily identifiable through traditional methods. Additionally, LLMs may not be able to identify all infringing works, as they may not be able to analyze all possible variations of a work.
+
+Furthermore, LLMs may not be able to prevent all copyright infringements, as they may not be able to identify all infringing works that are not easily identifiable through traditional methods. This could lead to a situation where LLMs are unable to prevent all copyright infringements, but they can help to reduce the number of infringements.
+
+Overall, while LLMs have the potential to significantly reduce the impact of copyright infringement, there are also potential downsides to their use. However, the benefits of LLMs outweigh the potential downsides, and they can help to improve the quality of content on the internet and reduce the number of copyright infringements.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: copyright cases involving technologies, plaintiffs have been more successful in receiving compensation when they participate in the market for the technology, such as through compulsory licensing mechanisms or through the monitoring of infringements when compared to a complete injunction of that tec
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: document_structure
+Preview: Other changes can also be non-transformative, e.g., memorized ex- amples that are noisier than the source image. The noise is not new expression conveying new aesthetics. It is just noise. The rest of the first factor does not point one direction or the other. Generations can be put to commercial us
+
+================================================================================
+CHUNKING METHOD: document_structure
+RETRIEVAL METHOD: mmr
+================================================================================
+Question: What is the impact of LLMs on copyright?
+
+Answer:
+
+The impact of LLMs on copyright is that they can significantly impact the legal landscape of copyright. LLMs can be used to generate new works, which can be non-transformative, memorized examples, or illustrations for academic purposes. However, LLMs can also be used to generate new works that are transformative, such as music videos or news reporting. The nature of the copyrighted work depends on the factors of the Copyright Law of the United States, which includes factors such as the nature of the copyrighted work, the extent of the copying, and the purpose and character of the use. The disaggregation of the technical and organizational pipeline of LLMs can also limit liability for infringement. The proposed EU copyright legislation has included a requirement to disclose copyrighted content used to train ML models, and large parts of the transformative use determination of Google's data mining came down to the snippets in Google Books tracing back to author works, giving authors an opportunity to profit from the technology. By attributing copyrighted works used in the pre-training process, authors have an opportunity for their works to be discovered through this technology.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: document_structure
+Preview: Other changes can also be non-transformative, e.g., memorized ex- amples that are noisier than the source image. The noise is not new expression conveying new aesthetics. It is just noise. The rest of the first factor does not point one direction or the other. Generations can be put to commercial us
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 5
+Chunking: document_structure
+Preview: enough to have their slice of the pre-training pie, but no one wants to know enough to be held liable for potential infringements. Choice of service disaggregation One direction that model developers may take to limit liabil- ity is through the disaggregation of services , where a technology pipelin
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Preview: as [Dai et al. 2023]. This could lend to more preemptive attribu- tion and recourse for the authors of copyrighted works. Proposed EU copyright legislation has included a requirement to disclose copyrighted content used to train ML models [Vincent 2022]. And, in [Authors Guild v. Google, 721 F.3d 13
+
+================================================================================
+CHUNKING METHOD: document_structure
+RETRIEVAL METHOD: with_scores
+================================================================================
+Question: What is the impact of LLMs on copyright?
+
+Answer:
+
+The impact of LLMs on copyright is significant, as they can significantly reduce the impact of copyright infringement. LLMs can analyze large datasets and identify patterns and similarities in the content, which can help identify infringing works and prevent them from being uploaded or shared. This can help to reduce the number of copyright infringements and improve the overall quality of content on the internet.
+
+However, there are also potential downsides to LLMs. For example, LLMs may not be able to identify all copyrighted works, and they may not be able to identify infringing works that are not easily identifiable through traditional methods. Additionally, LLMs may not be able to identify all infringing works, as they may not be able to analyze all possible variations of a work.
+
+Furthermore, LLMs may not be able to prevent all copyright infringements, as they may not be able to identify all infringing works that are not easily identifiable through traditional methods. This could lead to a situation where LLMs are unable to prevent all copyright infringements, but they can help to reduce the number of infringements.
+
+Overall, while LLMs have the potential to significantly reduce the impact of copyright infringement, there are also potential downsides to their use. However, the benefits of LLMs outweigh the potential downsides, and they can help to improve the quality of content on the internet and reduce the number of copyright infringements.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Similarity score: 0.6870162487030029
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Similarity score: 0.8880576491355896
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Similarity score: 0.8980174660682678
+Preview: copyright cases involving technologies, plaintiffs have been more successful in receiving compensation when they participate in the market for the technology, such as through compulsory licensing mechanisms or through the monitoring of infringements when compared to a complete injunction of that tec
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: document_structure
+Similarity score: 0.9070369005203247
+Preview: Other changes can also be non-transformative, e.g., memorized ex- amples that are noisier than the source image. The noise is not new expression conveying new aesthetics. It is just noise. The rest of the first factor does not point one direction or the other. Generations can be put to commercial us
+
+================================================================================
+CHUNKING METHOD: document_structure
+RETRIEVAL METHOD: bm25
+================================================================================
+Question: What is the impact of LLMs on copyright?
+
+Answer:
+
+The impact of LLMs on copyright is analyzed in the sources provided. The sources cited include:
+
+[1] File: 3709025.3712220.pdf
+Page: 10
+Citation: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+
+[2] File: 3511265.3550444.pdf
+Page: 1
+Citation: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+[3] File: 3709025.3712216.pdf
+Page: 2
+Citation: Morgan Gray, Li Zhang, Kevin D. Ashley, "Generating Case-Based Legal Arguments with LLMs," Proceedings of the Symposium on Computer Science and Law on ZZZ
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 10
+Chunking: document_structure
+BM25 score: 20.20643695428037
+Preview: paper should be recognized as tendencies, not upper limits on what LLMs can accomplish. Whatever responses an LLM produces is necessarily a combination of an LLM’s underlying capabilities, the prompts that a person has designed, and the architecture of 203
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: document_structure
+BM25 score: 19.83717891735499
+Preview: © 2022 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9234-1/22/11. https://doi.org/10.1145/3511265.3550444 exposed crucial ambiguities in interpretations of many fundamen- tal aspects of copyright law surrounding the copyrightability of Application Programming Interfaces, the merger doc
+
+Chunk 3
+Source: Morgan Gray, Li Zhang, Kevin D. Ashley, "Generating Case-Based Legal Arguments with LLMs," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712216.
+Page: 2
+Chunking: document_structure
+BM25 score: 19.522377511472538
+Preview: cent report of the LegalBench project addresses some types of legal reasoning that LLMs can perform [15]. The researchers apply LLMs with few-shot prompting to tasks like issue-spotting, rule- application, and interpretation. The LegalBench authors note [15, p. 28], however, that analogical reasonin
+
+Chunk 4
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 6
+Chunking: document_structure
+BM25 score: 19.42453512278388
+Preview: or increases in performance. Qualitative analysis of the transcripts of the LLM responses can show how the LLMs’ legal reasoning went off track with these methods. When the legal test is decomposed and the LLM is asked to answer a subquestion of the test, the LLMs have a tendency to miss the forest 
+
+================================================================================
+CHUNKING METHOD: document_structure
+RETRIEVAL METHOD: hybrid
+================================================================================
+Question: What is the impact of LLMs on copyright?
+
+Answer:
+
+The impact of LLMs on copyright is significant, as they can significantly reduce the impact of copyright infringement. LLMs can analyze large datasets and identify patterns and similarities in the content, which can help identify infringing works and prevent them from being uploaded or shared. This can help to reduce the number of copyright infringements and improve the overall quality of content on the internet.
+
+However, there are also potential downsides to LLMs. For example, LLMs may not be able to identify all copyrighted works, and they may not be able to identify infringing works that are not easily identifiable through traditional methods. Additionally, LLMs may not be able to identify all infringing works, as they may not be able to analyze all possible variations of a work.
+
+Furthermore, LLMs may not be able to prevent all copyright infringements, as they may not be able to identify all infringing works that are not easily identifiable through traditional methods. This could lead to a situation where LLMs are unable to prevent all copyright infringements, but they can help to reduce the number of infringements.
+
+Overall, while LLMs have the potential to significantly reduce the impact of copyright infringement, there are also potential downsides to their use. However, the benefits of LLMs outweigh the potential downsides, and they can help to improve the quality of content on the internet and reduce the number of copyright infringements.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Similarity score: 0.6870162487030029
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Similarity score: 0.8880576491355896
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Similarity score: 0.8980174660682678
+Preview: copyright cases involving technologies, plaintiffs have been more successful in receiving compensation when they participate in the market for the technology, such as through compulsory licensing mechanisms or through the monitoring of infringements when compared to a complete injunction of that tec
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: document_structure
+Similarity score: 0.9070369005203247
+Preview: Other changes can also be non-transformative, e.g., memorized ex- amples that are noisier than the source image. The noise is not new expression conveying new aesthetics. It is just noise. The rest of the first factor does not point one direction or the other. Generations can be put to commercial us
