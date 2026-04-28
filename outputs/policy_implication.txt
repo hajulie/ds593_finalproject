@@ -1,0 +1,235 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What are some policy implications of recent tech?
+
+Answer:
+
+The sources provided in the text material do not contain any policy implications of recent tech. The sources only provide citations for academic papers and articles, and do not provide any policy implications. The text material only discusses the methods and policies in global perspective, and does not provide any policy implications. Therefore, the answer is "No, there are no policy implications of recent tech in the given text material."
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[5] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: fixed_size
+Preview: Methods and Policies in Global Perspective , Asher Ben -Arieh, Ferran Casas,  Ivar Frønes and Jill E. Korbin (eds.). Springer, 663 –707.  https://doi.org/10.1007/978-90-481-9063-8_138  Joel R. Reidenberg. 1998. Lex Informatica: The Formulation of Information  Policy Rules through Technology. Tex. La
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: fixed_size
+Preview: Major Technology Companies . Retrieved January 24, 2024 from  https://knightfoundation.org/wp-content/uploads/2020/03/Gallup - Knight-Report-Techlash-Americas-Growing-Concern-with-Major-Tech- Companies-Final.pdf  Mary B Kribble. 2008. Fear -Mongering, Filters, the Internet, and the First  Amendment:
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: coordinated but ineffective effort to bake technological  determinism and solutionism into the law —will result in an  impossible configuration. In essence, tech companies will be  required by law to design their systems for social outcomes  they cannot possibly control.   While proponents argue tha
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: deterministic orientation towards technology. Likewise, their  faith in the platforms’ design interventions to prevent or  mitigate social harms reflects a techno -solutionist belief that  “social problems can be circumvented or at least reduced to  less formidable proportions by the application of 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: fixed_size
+Preview: and other technological devices, the technologies that we inter- face with (arguably including pre-trained models) are increasingly networked–product release is not the end of the story. Rather, tech- nological products can and should be expected to “phone home” and iterate. Design choices that have
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What are some policy implications of recent tech?
+
+Answer:
+
+Sure, here are the answers to the questions using only the sources provided:
+
+1. What is the purpose of recent tech policy?
+
+The purpose of recent tech policy is to address the concerns of the public and policymakers regarding the impact of technology on society. The policy implications of recent tech are to promote responsible use of technology, protect privacy, and ensure that technology is used for the benefit of society.
+
+2. What are some policy implications of recent tech?
+
+Some policy implications of recent tech include:
+
+- Promoting responsible use of technology: Policymakers are increasingly recognizing the need to regulate and control the use of technology to ensure that it is used for the benefit of society and not for harm.
+
+- Protecting privacy: Policymakers are also recognizing the importance of protecting privacy and data privacy, which is a key concern for many people.
+
+- Ensuring that technology is used for the benefit of society: Policymakers are recognizing the need to ensure that technology is used for the benefit of society, rather than for the benefit of a select few.
+
+3. What are some policy solutions proposed by recent tech policy?
+
+Some policy solutions proposed by recent tech policy include:
+
+- Regulation and control: Policymakers are proposing regulation and control measures to ensure that technology is used for the benefit of society and not for harm.
+
+- Privacy and data protection: Policymakers are also proposing measures to protect privacy and data privacy, which is a key concern for many people.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: document_structure
+Preview: Methods and Policies in Global Perspective , Asher Ben -Arieh, Ferran Casas,  Ivar Frønes and Jill E. Korbin (eds.). Springer, 663 –707.  https://doi.org/10.1007/978-90-481-9063-8_138  Joel R. Reidenberg. 1998. Lex Informatica: The Formulation of Information  Policy Rules through Technology. Tex. La
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 9
+Chunking: document_structure
+Preview: conditions to adjudicate such information – it is hard to  imagine how technology companies or government agencies  are going to effectively assess what information causes  anxiety or depression.  5.4 A Technological Fix Reinforces Big Tech’s  Technosolutionist Orientation While  Undermining Ecologi
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: document_structure
+Preview: harms listed in bills like KOSA is universally desirable. For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they have the ability to do it. Many proponents of KOSA argue  that if there’s a forcible will, companies will fin
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: document_structure
+Preview: has the power to harm others. However, in the case of  children on social media sites, the origin of the harm to youth  mental health is not clear cut: it may be the site itself, the  users of the site, or a combination of both.   2.2 Technological Determinism  The field of science and technology st
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: document_structure
+Preview: reclaiming this identity as “techno -optimism” [Andreessen  2023].  Social shaping theorists have made it clear that, even  though technologies can influence outcomes by offering  certain design possibilities and constraints – also referred to  as affordances [Gaver 1991; Gibson 1997]  – they cannot
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What are some policy implications of recent tech?
+
+Answer:
+
+Sure, here's a concise answer to the question:
+
+What are some policy implications of recent tech?
+
+Sources:
+
+[1] File: 3614407.3643705.pdf
+Page: 3
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text:
+
+Changing technology will always be only one factor among many others: political, economic, cultural, and so on. Even though it is true that technologies are not neutral, it is also true that their impact on society can vary, depending on the contexts where they are received and the practices and social arrangements that form around the artifacts.
+
+[2] File: 3614407.3643705.pdf
+Page: 11
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text:
+
+Knight Foundation and Gallup. America’s Growing Concern With 
+Major Technology Companies . Retrieved January
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[4] Ero Balsa, Helen Nissenbaum, Sunoo Park, "Cryptography, Trust and Privacy: It's Complicated," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550443.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: sentence
+Preview: Changing technology will always be only  one factor among many others: political, economic, cultural  and so on.” [MacKenzie and Wajcman 2011] . Thus, even  though it is true that technologies are not neutral [Latour  1988; Winner 1980], it is also true that their impact on society  can vary, depend
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: sentence
+Preview: Knight Foundation and Gallup. America’s Growing Concern With  Major Technology Companies . Retrieved January 24, 2024 from  https://knightfoundation.org/wp-content/uploads/2020/03/Gallup - Knight-Report-Techlash-Americas-Growing-Concern-with-Major-Tech- Companies-Final.pdf  Mary B Kribble. Fear -Mon
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: sentence
+Preview: However, the  legislative approach that they have taken with KOSA’s duty of  care appears to be more appropriately framed as a  “technological fix” to a moral panic. Policymakers’ visions of  social media platforms and their design features “as causal  agents, entering societies as active forces of 
+
+Chunk 4
+Source: Ero Balsa, Helen Nissenbaum, Sunoo Park, "Cryptography, Trust and Privacy: It's Complicated," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550443.
+Page: 11
+Chunking: sentence
+Preview: 2.2) that technologies today tend to rely on.
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: sentence
+Preview: It is important to  note, though, that “although the legislature can and sometimes  does create a duty of care to a new class of injured persons,  the mere fact that a statute defines due care does not in and of  itself create a duty enforceable by tort law” [Seventh Circuit. In any case, in both po
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What are some policy implications of recent tech?
+
+Answer:
+
+Sure, here's a concise answer to the question using only the sources provided:
+
+What are some policy implications of recent tech?
+
+1. Technological Fixes Disregard Uncertain Effects
+Protecting young people from experiencing the negative harms listed in bills like KOSA is universally desirable. For those who defend KOSA, the question on the table is whether or not tech companies have the will to do so, not whether or they have the ability to do it. Many proponents of KOSA argue that if there's a forcible will, companies will find a way. This approach, nevertheless, gives no consideration to the uncertain effects of technological fixes.
+
+2. Technologies Today Tend to Rely on
+Today, technologies tend to rely on. When Lessig first argued that "code is law," he intended to signal how the design of software plays a regulating role in making certain outcomes more or less likely. One mistake that policymakers have made is reinterpreting his words to embrace a techno-deterministic vision that code can act as proxy for law in dictating futures. Rather than solving the complex social issues that KOSA intends to tackle, this techno -legal solutionism —a coordinated but ineffective effort to bake technological determinism and solution— appears to be more appropriately framed as a "technological fix" to a moral panic. Policymakers' visions of social media platforms and their design features "as causal agents, entering societies as active forces
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[2] Ero Balsa, Helen Nissenbaum, Sunoo Park, "Cryptography, Trust and Privacy: It's Complicated," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550443.
+[5] Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: semantic
+Preview: 5.2 Technological Fixes Disregard Uncertain  Effects  Protecting young people from experiencing the negative  harms listed in bills like KOSA is universally desirable. For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they
+
+Chunk 2
+Source: Ero Balsa, Helen Nissenbaum, Sunoo Park, "Cryptography, Trust and Privacy: It's Complicated," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550443.
+Page: 11
+Chunking: semantic
+Preview: 2.2) that technologies today tend to rely on.
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: semantic
+Preview: However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is law,” he  intended to signal how the design of software plays a  regulating role in making certain outcomes
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: semantic
+Preview: However, the  legislative approach that they have taken with KOSA’s duty of  care appears to be more appropriately framed as a  “technological fix” to a moral panic. Policymakers’ visions of  social media platforms and their design features “as causal  agents, entering societies as active forces of 
+
+Chunk 5
+Source: Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+Page: 6
+Chunking: semantic
+Preview: From a more conceptual perspective, we observe a mode of interaction between CS research and law. We propose that demon- strating a POC of technological feasibility can support novel legal arguments even before adoption of a new technology. Specifically, feasibility alone may lead some courts to dec
