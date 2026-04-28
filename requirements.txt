@@ -1,7 +1,8 @@
 # Core LangChain ecosystem
 langchain
 langchain-community
-langchain-ollama
+langchain-text-splitters
+langchain-experimental
 
 # PDF loading
 pypdf
@@ -20,3 +21,6 @@ pandas
 
 # Optional (better text splitting / newer versions sometimes require this)
 tiktoken
+torch
+requests
+shutil
