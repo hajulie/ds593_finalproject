@@ -1,0 +1,22 @@
+# Core LangChain ecosystem
+langchain
+langchain-community
+langchain-ollama
+
+# PDF loading
+pypdf
+
+# Embeddings + vector store
+sentence-transformers
+faiss-cpu
+
+# Hugging Face (if you still test free models)
+transformers
+accelerate
+
+# Utilities
+numpy
+pandas
+
+# Optional (better text splitting / newer versions sometimes require this)
+tiktoken
