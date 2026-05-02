@@ -1,0 +1,214 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What does Talkin' 'Bout AI Generation say about thin versus thick copyright protection?
+
+Answer:
+
+Yes, Talkin' 'Bout AI Generation says that thin versus thick copyright protection is a matter of concern for generative-AI supply chains. The sources cited in the text include [1] and [2], which discuss the potential for copyright infringement in generative-AI models and the role of courts in balancing the copyright risks faced by others. The text also mentions that copyright pervades the generative-AI supply chain and that courts should beware of metaphors that provide too-easy answers to the genuinely hard problem of copyright litigation. The main argument is that copyright pervades the generative-AI supply chain and that courts should be cautious in balancing the copyright risks faced by others. The text also discusses the unpredictability of AI-generated outputs and the need for a delicate balance between copyright law and AI policy. The text concludes by suggesting that copyright law has a role to play within the AI policy landscape, but that it should be careful not to create loopholes or allow for too much copyright protection.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[4] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: fixed_size
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, 2023, S. 6.31] — and included through express breach of confidence. Here, this factor will favor the plaintiff. Factor Three (“the amount a
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: fixed_size
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* actor, and when infringement may occur, and discuss how the choices made by actors at one point in the supply chain affect the copyright risks faced by others (Section 3). • Detail broader lessons, inclu
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: 2 MAINTAINING COPYRIGHT’S BALANCE New technologies have long posed serious questions for copyright law. One of the latest innovations, generative AI, is no different. Already, scholars and litigants have debated whether training generative AI models on copyrighted materials should be lawful or not. 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: may manage or attempt to limit their copyright liability in practice. Based on this analysis, I conclude with a discussion of strategies to close these loopholes and of the role that copyright law has to play within the AI policy landscape. CCS CONCEPTS •Social and professional topics → Secondary li
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What does Talkin' 'Bout AI Generation say about thin versus thick copyright protection?
+
+Answer:
+
+To answer the question using only the sources provided, the answer is:
+
+Yes, Talkin' 'Bout AI Generation says that generative AI systems generate infringing outputs, and that copyright law should be applied to these systems. The sources cited in the text include:
+
+1. Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+2. Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+3. Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+4. Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: 2 MAINTAINING COPYRIGHT’S BALANCE New technologies have long posed serious questions for copyright law. One of the latest innovations, generative AI, is no different. Already, scholars and litigants have debated whether training generative AI models on copyrighted materials should be lawful or not. 
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, services, what the user prompts with, etc. Every single one of these steps could be under the control of a different person. Third, design 
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: document_structure
+Preview: engage with these choices — as will AI policy. Fourth, fair use is not a silver bullet . For a time, it seemed that training and using AI models would often constitute fair use. In such a world, AI development is generally a low-risk activity, at least from a copyright perspective. Yes, training dat
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What does Talkin' 'Bout AI Generation say about thin versus thick copyright protection?
+
+Answer:
+
+Based on the sources provided, the answer to the question is:
+
+Yes, Talkin' 'Bout AI Generation says about thin versus thick copyright protection.
+
+The sources cited include:
+
+[1]
+File: 3614407.3643696.pdf
+Page: 9
+Citation: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+Text:
+Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version)
+Talkin' 'Bout AI Generation: (The Short Version), October 1, 2023,
+Services, what the user prompts with, etc. Every single one of these steps could be under the control of a different person. Third, design choices matter. Different settings on a training algorithm can affect how much the resulting model will memorize specifi
+
+[2]
+File: 3614407.3643707.pdf
+Page: 8
+Citation: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, 2023, S. 6.31] — and included through express breach of confidence. Here, this factor will favor the plaintiff. Factor Three (“the amount a
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: Finally, copyright law is by no means a panacea for regulating AI development and deployment or for protecting artists in that process. The burden of proof currently falls on artists to discover works that might have infringed on theirs and to bring an action. The resource-intensive process could di
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society , pages 385–395, 2022. Technological fair use. Talkin’‘bout ai generation: Copyright and the generative ai supply chain. A vailable at SSRN 4523551, 2023. How copyright law can fix artificial intelligence’s implicit bias probl
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, services, what the user prompts with, etc. Every single one of these steps could be under the control of a different person. Third, design 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What does Talkin' 'Bout AI Generation say about thin versus thick copyright protection?
+
+Answer:
+
+The answer to the question is:
+
+Yes, Talkin' 'Bout AI Generation says that thin versus thick copyright protection is a topic of interest in the context of generative AI. The sources cited in the text discuss the choices made by actors at one point in the supply chain, how courts should conceptualize generative AI, and how the ordinary business of copyright litigation will continue even in a generative-AI age. The article argues that copyright pervades the generative-AI supply chain, that fair use is not a silver bullet, and that the ordinary business of copyright litigation will continue even in a generative-AI age. The sources cited in the text provide a broader lesson on the complex legal issues surrounding generative AI, including the question of whether the training of generative AI systems on copyrighted works is lawful or infringement.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* actor, and when infringement may occur, and discuss how the choices made by actors at one point in the supply chain affect the copyright risks faced by others (Section 3). • Detail broader lessons, inclu
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: Over three dozen pending U.S. court cases grapple with this question of whether the training of generative AI systems on copyrighted works is lawful or infringement. Yet even if training an AI system on copyrighted works is permitted under copyright law, there is still the question of who should be 
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 5
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, in a copyright-infringement analysis. There are at least three ways the relationship could be described:40 • The user actively drives the g
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: 2015]. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate copyright law. While these input-side fair use and non-infringement arguments are per

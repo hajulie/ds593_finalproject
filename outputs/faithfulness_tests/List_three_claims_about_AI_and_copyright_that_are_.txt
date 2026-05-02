@@ -1,0 +1,220 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: List three claims about AI and copyright that are directly supported by the retrieved sources, and one tempting claim that is not supported.
+
+Answer:
+
+Sure, here are the three claims supported by the retrieved sources, and one tempting claim that is not supported:
+
+1. AI and copyright:
+
+- Text: "Artificial Infringement"
+- Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+2. Direct liability for AI copyright law:
+
+- Text: "Artificial Infringement"
+- Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+3. Artificial Infringement:
+
+- Text: "Artificial Infringement"
+- Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+4. Fair use:
+
+- Text: "Artificial Infringement"
+-
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[5] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 5
+Chunking: fixed_size
+Preview: establish foolproof guardrails to prevent AI systems from generating specific outputs [Bowman 2023]. AI models can misinterpret prompts, overrely on specific training material, or suffer from analysis disconnects that could lead to a very different output from what the user intended [Henderson et al
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: Along with fair use, these refinements to copyright doctrine provide a more comprehensive resolution to the battles between copyright and AI. ACM Reference format: Michael P. Goodyear. 2025. Artificial Infringement. In Proceedings of ACM Symposium on Computer Science and Law (CSLaw ’25), March 25–27
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: fixed_size
+Preview: Joshua A. Kroll et al. 2017. Accountable Algorithms. University of Pennsylvania Law Review 165 (2017), 633. Katherine Lee, A. Feder Cooper, and James Grimmelmann. 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming. Ti
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: Lemley and Casey [2021], Levendowski [2018], Sag [2023], and Samuelson [2024] argue that training an AI system on copyrighted content is likely transformative. These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: List three claims about AI and copyright that are directly supported by the retrieved sources, and one tempting claim that is not supported.
+
+Answer:
+
+Sure, here are the three claims supported by the retrieved sources, and one tempting claim that is not supported:
+
+1. Claim 1: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+Text:
+Joshua A. Kroll et al. 2017. Accountable Algorithms. University of Pennsylvania Law Review 165 (2017), 633. Katherine Lee, A. Feder Cooper, and James Grimmelmann. 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming. Timothy B. Lee and James Grimmelmann. Why the New York Times Might Win Its Copyright Lawsuit Against OpenAI. Ars Technica (20 February 2024). Mark Lemley and Bryan Casey. 2019. Remedies for Robots. University of Chicago Law Review 86 (2019), 1311. Mark Lemley and Bryan Casey. 2021. Fai
+
+2. Claim 2: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: Joshua A. Kroll et al. 2017. Accountable Algorithms. University of Pennsylvania Law Review 165 (2017), 633. Katherine Lee, A. Feder Cooper, and James Grimmelmann. 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming. Ti
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 5
+Chunking: document_structure
+Preview: establish foolproof guardrails to prevent AI systems from generating specific outputs [Bowman 2023]. AI models can misinterpret prompts, overrely on specific training material, or suffer from analysis disconnects that could lead to a very different output from what the user intended [Henderson et al
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: . These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair uses, including search engines [Perfect 10, Inc. v. Amazon.com, Inc. 2007] [Kelly v. Arriba Soft Corp. 2003], plagiarism checkers [A.V. ex rel. Vanderhye v. 
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 9
+Chunking: document_structure
+Preview: . Contributory liability therefore appears best situated to maintain balanced copyright in the face of the novel unpredictability of AI-generated outputs. Once an AI system developer is aware that there is a specific infringement—whether through the rights owner or anyone else reporting it, or other
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: List three claims about AI and copyright that are directly supported by the retrieved sources, and one tempting claim that is not supported.
+
+Answer:
+
+Based on the provided sources, the answer to the question is:
+
+1. Citation: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+2. Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+3. Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+4. Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+5
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: The gradient of generative ai release: Methods and considerations. In Pro- ceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency , pages 111–122, 2023. , 508 F.3d 1146 (9th Cir., 2007). Universal City Studios, Inc. Reported eu legislation to disclose ai training data coul
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 13
+Chunking: sentence
+Preview: Washington Law Review 89 (2014), 117. Liability for AI Output. Journal of Free Speech Law 3 (2023), 489. Third-Party Copyright Liability After Grokster. Minnesota Law Review 91 (2006), 184.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: 883 F.3d 1111 (9th Cir. Restatement (Third) of Agency. Infringing AI: Liability for AI-Generated Outputs Under International, EU, and UK Copyright Law. European Journal of Risk Regulation (2024), 1. Copyright Safety for Generative AI. Houston Law Review 61 (2023), 295.
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: Along with fair use, these refinements to copyright doctrine provide a more comprehensive resolution to the battles between copyright and AI. ACM Reference format: Michael P. Artificial Infringement. In Proceedings of ACM Symposium on Computer Science and Law (CSLaw ’25), March 25–27, 2025, München,
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: 2003], plagiarism checkers [A.V. iParadigms, LLC 2009], and Google Books [Author’s Guild v. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate 
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: List three claims about AI and copyright that are directly supported by the retrieved sources, and one tempting claim that is not supported.
+
+Answer:
+
+The sources provided do not support the claim that AI and copyright are directly related. The sources only support the claim that AI and copyright are indirectly related, as they support the idea that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure. The sources also argue that AI-generated output can be a copy, and therefore implicate copyright law, but they do not support the claim that AI training relies on copyright law. The sources also do not support the claim that AI and copyright are directly related, as they do not directly support the idea that AI training relies on copyright law.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: 2015]. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate copyright law. While these input-side fair use and non-infringement arguments are per
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: Vincent. Reported eu legislation to disclose ai training data could trigger copy- right lawsuits. https://www.theverge.com/2023/4/28/23702437/eu-ai-act-disclose- copyright-training-data-report, 2022. M.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: ALI. Eleonora Rosati. 2024. Infringing AI: Liability for AI-Generated Outputs Under International, EU, and UK Copyright Law. European Journal of Risk Regulation (2024), 1. Routt v. Amazon.com, Inc. 2014.
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2018. How Copyright Law Can Fix Artificial Intelligence’s Implicit Bias Problem. Washington Law Review 93 (2018), 579.

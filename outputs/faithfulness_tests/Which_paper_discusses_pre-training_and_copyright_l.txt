@@ -1,0 +1,180 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Which paper discusses pre-training and copyright liability, and what policy approach does it suggest?
+
+Answer:
+
+Based on the sources provided, the paper discusses the pre-training and copyright liability, and the policy approach suggested is to suggest that the pre-training paradigm of AI development could also be favorable to corporations with the resources required to pre-train high-performing models. The paper argues that copyright’s constitutional roots in a consideration of technical progress and welfare could support the claim that indirect liability can be difficult to establish, and discusses the strategies discussed in light of these strategies. The paper concludes that in light of these strategies, the legal literature has focused primarily on whether a model’s use of copyrighted works as training data directly infringes upon a copyright holder’s rights, and argues that a common way an answer has been attempted in the legal literature relies on the conceptualization of a close connection between the purpose of model training and deployment application. The paper suggests that this reasoning and conceptualization warrants a closer look.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew phase of training (pre-training) may also be the phase that actually uses copyrighted data. 3 THE GULF BETWEEN TECHNICAL CONCEPTUALIZATION AND DEVELOPMENTAL REALITY CREATES REGULATORY UNCERTAINTY. The technical utility of pre-training and then fine-t
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: fixed_size
+Preview: of downstream applications. Given the role of pre-trained models in facilitating the development of downstream models, I analyze a pre-training paradigm under a indirect copyright liability anal- ysis. I discuss why indirect liability can be difficult to establish and discuss lessons for pre-trainin
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 3
+Chunking: fixed_size
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA Figure 1: (a): This is a representation of the conceptualization of training in proposed analyses for AI systems in the l
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: fixed_size
+Preview: technological progress and welfare could support the claim that the production of pre-trained models is a non-infringing use of copyrighted works. For example, Quang [2021] discusses how a pre-training paradigm can support innovation through increased access to AI system development for smaller deve
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: in training. The legal literature has focused primarily on whether a model’s use of copyrighted works as training data directly infringes upon a copyright holder’s rights. While questions around direct liability from model training on copyrighted works are far from settled, a common way an answer ha
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Which paper discusses pre-training and copyright liability, and what policy approach does it suggest?
+
+Answer:
+
+To summarize the answers to the question using only the sources provided, the paper discusses pre-training and copyright liability, and the policy approach suggested is to suggest a single training process informing a multitude of downstream applications. The paper analyzes a pre-training paradigm under indirect copyright liability analysis, and discusses the ramifications of this paradigm for corporations with the resources required to pre-train high-performing models. The paper also considers the potential impacts of a pre-training regime on the application of copyrighted works for AI systems, and suggests that large, modern AI systems are at risk of infringing copyrights. The paper argues that the legal literature has focused primarily on whether a model's use of copyrighted works as training data directly infringes upon a copyright holder's rights, but a common way an answer has been attempted in the legal literature relies on the conceptualization of a close connection between the purpose of model training and deployment application. The paper argues that this reasoning and conceptualization warrants a closer look.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: document_structure
+Preview: tests for direct infringement in the use of copyrighted works for the training process. I show how these tests rely heavily on a con- ceptualization of ML systems and the development process as a single pipeline with one model and one application. A pre-training paradigm breaks this presumption and 
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: document_structure
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew phase of training (pre-training) may also be the phase that actually uses copyrighted data. 3 THE GULF BETWEEN TECHNICAL CONCEPTUALIZATION AND DEVELOPMENTAL REALITY CREATES REGULATORY UNCERTAINTY. The technical utility of pre-training and then fine-t
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 3
+Chunking: document_structure
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA Figure 1: (a): This is a representation of the conceptualization of training in proposed analyses for AI systems in the l
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: document_structure
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development Rui-Jie Yew Brown University Massachusetts Institute of Technology USA rui-jie_yew@brown.edu ABSTRACT This paper considers the potential impacts of a pre-training regi
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: document_structure
+Preview: https://doi.org/10.1145/3614407.3643707 time as it threatens the livelihood of artists whose works are used in training. The legal literature has focused primarily on whether a model’s use of copyrighted works as training data directly infringes upon a copyright holder’s rights. While questions arou
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Which paper discusses pre-training and copyright liability, and what policy approach does it suggest?
+
+Answer:
+
+Based on the sources provided, the paper discusses the pre-training and copyright liability paradigm of AI development. The paper argues that the proposed direct copyright liability tests do not take into account the pre-training paradigm of AI development, which involves a single training process informing a multitude of downstream applications. The paper suggests that the proposed tests rely heavily on a conceptualization of ML systems and the development process as a single pipeline with one model and one application. The paper also discusses the indirect liability analysis under the pre-training paradigm, which challenges the proposed tests with the introduction of a single training process informing a multitude of downstream applications. The paper concludes that the pre-training paradigm of AI development offers a non-infringing use of copyrighted works, and that the proposed tests do not take into account the pre-training paradigm.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: sentence
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew phase of training (pre-training) may also be the phase that actually uses copyrighted data. 3 THE GULF BETWEEN TECHNICAL CONCEPTUALIZATION AND DEVELOPMENTAL REALITY CREATES REGULATORY UNCERTAINTY. The technical utility of pre-training and then fine-t
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: sentence
+Preview: I discuss why indirect liability can be difficult to establish and discuss lessons for pre-training based on how judicial tests for indirect copyright liability have been subverted in the past. Finally, in light of these strategies, I discuss duties of care as an approach to regulating the developer
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: sentence
+Preview: First, I evaluate pre-trained models under currently proposed judicial tests for direct infringement in the use of copyrighted works for the training process. I show how these tests rely heavily on a con- ceptualization of ML systems and the development process as a single pipeline with one model an
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: sentence
+Preview: From the perspective of proposed direct copyright liability tests, this paradigm of development could also be favorable to corporations with the resources required to pre-train high-performing models. Moreoever, copyright’s constitutional roots in a consideration of technological progress and welfar
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: sentence
+Preview: This technology facilitates the creation of new works at the same This work is licensed under a Creative Commons Attribution-NoDerivs International  4.0 License. CSLA W ’24, March 12–13, 2024, Boston, MA, USA © 2024 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-0333-1/24/03 https://doi.
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Which paper discusses pre-training and copyright liability, and what policy approach does it suggest?
+
+Answer:
+
+To summarize the main points of the papers discussed in the text, the papers discuss the potential impacts of a pre-training regime on the application of copyright law for AI systems. The papers propose evaluations of the use of copyrighted works for AI training, but they also consider indirect liability from pre-trained models and the potential for downstream infringements. The papers highlight strategies for exploiting the "break-it 'til you make it" approach, which involves bypassing liability for the use of copyrighted works by involved players in the AI development chain. The papers also propose duties that emphasize accountability at each stage of model development.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: semantic
+Preview: CSLA W ’24, March 12–13, 2024, Boston, MA, USA © 2024 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-0333-1/24/03 https://doi.org/10.1145/3614407.3643707 time as it threatens the livelihood of artists whose works are used in training. The legal literature has focused primarily on whether
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 4
+Chunking: semantic
+Preview: 2015]. From the perspective of proposed direct copyright liability tests, this paradigm of development could also be favorable to corporations with the resources required to pre-train high-performing models. Moreoever, copyright’s constitutional roots in a consideration of technological progress and
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: semantic
+Preview: This means that a single training process is often subject to a wide variety of uses by multiple actors. Proposed tests for direct liability adopt a conceptualization of the training process that may not align with the technical reality of the training process or the market structures surrounding AI
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: semantic
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development Rui-Jie Yew Brown University Massachusetts Institute of Technology USA rui-jie_yew@brown.edu ABSTRACT This paper considers the potential impacts of a pre-training regi
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: semantic
+Preview: Generative AI can facilitate output or model infringements by downstream developers [Lu et al. 2019]. I draw an analogy between indirect liability from pre-trained models and indirect copyright litigation involving peer-to-peer file-sharing networks to identify opportunities for model developers to 

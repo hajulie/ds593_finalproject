@@ -1,0 +1,247 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Answer:
+
+Sources:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+Text:
+to maintain it. As one federal judge put it, new technologies lead to a "push and pull . . . over the breadth or narrowness" of copyright law [Karnow 2000]. Although the incentives-access balance is universally desired, the optimal balance is difficult to ascertain. The law uses a toolkit of imperfect proxies and polestars to tease out what threatens and fosters the incentives-access balance in order to maintain it.
+
+[2] Andrew Sellars, Sarah Scheffler, "When Anti-Fraud Laws Become a Barrier to Computer Science Research," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712206.
+
+Text:
+in costs related to investigation of the incident and consulting
+with technology lawyers.29 This approach has not been universal –
+[Pfefferkorn 2022] illustrates an emerging split between courts in
+how to internalize this indirect instruction from Van Buren – but a
+move
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Madelyne Xiao, Andrew Sellars, Sarah Scheffler, "When Anti-Fraud Laws Become a Barrier to Computer Science Research," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712206.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 3
+Chunking: fixed_size
+Preview: to maintain it. As one federal judge put it, new technologies lead to a “push and pull . . . over the breadth or narrowness” of copyright law [Karnow 2000]. Although the incentives-access balance is universally desired, the optimal balance is difficult to ascertain. The law uses a toolkit of imperfe
+
+Chunk 2
+Source: Madelyne Xiao, Andrew Sellars, Sarah Scheffler, "When Anti-Fraud Laws Become a Barrier to Computer Science Research," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712206.
+Page: 12
+Chunking: fixed_size
+Preview: in costs related to investigation of the incident and consulting with technology lawyers.29 This approach has not been universal – [Pfefferkorn 2022] illustrates an emerging split between courts in how to internalize this indirect instruction from Van Buren – but a move in that direction would provi
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: fixed_size
+Preview: an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is in keeping with the constitutional basis for copyright law, which emphasizes both technological and scientific progress alongside authori
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: fixed_size
+Preview: aspects could be specifically technically tagged to draw from in the production of similar works. To further lay out duties for data collection and use for model training, it may be helpful to look to recent proposals that recognize the social and collective value of data, such as [Gordon-Tapiero et
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew to have, whereas actual knowledge is the knowledge that one does have. Once companies have actual knowledge of an infringement, they are no longer protected under the safe harbor [Fitts 2006]. Lee et al. [2023] discusses how the visibility that hosts
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Answer:
+
+Sure, here are the answers to the questions using only the sources provided:
+
+1. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+2. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+3. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+4. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+5. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+6. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+7. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+8. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources say that LLMs will revolutionize copyright enforcement.
+
+9. Do the sources say that LLMs will revolutionize copyright enforcement?
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: copyright cases involving technologies, plaintiffs have been more successful in receiving compensation when they participate in the market for the technology, such as through compulsory licensing mechanisms or through the monitoring of infringements when compared to a complete injunction of that tec
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 10
+Chunking: document_structure
+Preview: fringe. This outcome is an existential threat to model trainers and service providers; it makes their operations per se copyright in- fringement. It is also the outcome being sought by the class-action plaintiffs in high-profile lawsuits against OpenAI, Stability AI, and some of their partners. In t
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: ordering–through which technological innovation in preventing infringement can be moved. To solidify and develop these duties and standards, partnerships with the open-source ML community, which increasingly shapes the basis of ML development, may play a central role [Langenkamp and Yue 2022]. Stand
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Answer:
+
+Sure, here's a concise answer to the question using the sources provided:
+
+Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Yes, the sources provided in the text material answer the question by stating that LLMs will revolutionize copyright enforcement. The sources cited include:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+[4]
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. 508 F.3d 1146 (9th Cir. 847 F.3d 657 (9th Cir. Petroleos Mexicanos Refinacion v. Nicholson Price II and I.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: Revenge Against Robots. South Carolina Law Review 69 (2018), 579. Volition in Violation of Copyright. Columbia Journal of Law and the Arts 43 (2019), 1. CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher.
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: The harm does not so much stem from the existence of these technologies but the infringements that occur from the development or the use of these technologies. As part of legal remedies that have come from copyright cases involving technologies, plaintiffs have been more successful in receiving comp
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: Communications of the ACM, 55(5):30–32, 2012. American copyright life: Reflections on re-equilibrating copyright for the internet age, this. Copyright Soc’y USA, 61:235, 2013. Legal realism in action: Indirect copyright liability’s continuing tort framework and sony’s de facto demise. Intellectual p
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: https://perma.cc/YP7H-GJQN, 2023. New technology and the limitations of copyright law: An argument for finding alternatives to copyright legislation in an era of rapid technological change. Accountability in a computerized society. Science and engineering ethics, 2:25–42, 1996. Better language model
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Do the sources say that LLMs will revolutionize copyright enforcement?
+
+Answer:
+
+The sources provided do not contain enough information to answer the question. The provided sources only provide citations for articles and papers that discuss the potential impact of AI on copyright enforcement. The sources do not provide any specific examples or examples of how AI could revolutionize copyright enforcement. The sources do not provide any information on how AI could filter outputs that are too similar to a particular copyrighted work or are unlikely to be fair use. The sources do not provide any information on how AI could prevent preemptive attribution and recourse for the authors of copyrighted works. The sources do not provide any information on how AI could lend to more preemptive attribution and recourse for the authors of copyrighted works. The sources do not provide any information on how AI could filter outputs that are too similar to a particular copyrighted work or are unlikely to be fair use. Therefore, the answer to the question is "no."
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[5] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2024. CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. Perfect 10, Inc.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 10
+Chunking: semantic
+Preview: 2025]. A mechanism that filters outputs that are too similar to a particular copyrighted work or are unlikely to be fair use could be another possibility. However, as prior scholarship has shown, mechanical determinations of fair use are far from perfect and can impede free speech [Burk 2019]. While
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: S. Menell. American copyright life: Reflections on re-equilibrating copyright for the internet age, this. J. Copyright Soc’y USA, 61:235, 2013. P.
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: semantic
+Preview: This could lend to more preemptive attribu- tion and recourse for the authors of copyrighted works. Proposed EU copyright legislation has included a requirement to disclose copyrighted content used to train ML models [Vincent 2022]. And, in [Authors Guild v.
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: semantic
+Preview: 2022. Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Sim- ilarity. In Proceedings of the 2022 Symposium on Computer Science and Law (CSLA W ’22), November 1–2, 2022, Washington, DC, USA.ACM, New York, NY, USA, 13 pages.

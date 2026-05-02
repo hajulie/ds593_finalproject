@@ -1,0 +1,219 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What does Techno-legal Solutionism argue about KOSA and technological fixes?
+
+Answer:
+
+To answer the question using only the sources provided, the answer is:
+
+1. Techno-legal Solutionism argues that technological fixes can be used to solve complex social issues, such as KOSA and technological fixes. However, the 24-hour duty of care provision in KOSA is rooted in a deterministic theory that sets up a configuration that is unrealizable at best and, in some cases, explicitly harmful to the very population that needs protection. This approach is unlikely to achieve its stated goals and is likely to trigger a range of other outcomes.
+
+2. The sources cited in the text include:
+
+- "Techno-legal Solutionism" by María P. Angel, Danah Boyd, and Danah Z. Sood, Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+- "Techno-legal Solutionism" by María P. Angel, Danah Boyd, and Danah Z. Sood, Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+- "Techno-legal Solutionism" by María P. Angel, Danah Boyd, and Danah Z. Sood, Proceedings of the Symposium on Computer Science and Law, ACM, 2024
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: [Morozov 2013; Sætra 2023; Selbst et al. 2019] . However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is law,” he  intended to signal how the design of software pl
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: fixed_size
+Preview: harms listed in bills like KOSA is universally desirable. For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they have the ability to do it. Many proponents of KOSA argue  that if there’s a forcible will, companies will fin
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: fixed_size
+Preview: measure the efficacy of implementing such design  interventions vis-à-vis complex social dynamics.  In this paper, we argue that KOSA’s duty of care is rooted in  a deterministic theory that we label “techno -legal  solutionism.” When the law demands technosolutionism, it  sets up a configuration th
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: deterministic orientation towards technology. Likewise, their  faith in the platforms’ design interventions to prevent or  mitigate social harms reflects a techno -solutionist belief that  “social problems can be circumvented or at least reduced to  less formidable proportions by the application of 
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 9
+Chunking: fixed_size
+Preview: instantly, without barriers.” These lofty ideals are visionary,  but none contend with how the design of their systems have  been leveraged by people for constructive and destructive  uses, how usefulness is contextual, or how one person’s  freedoms can become barriers for others. In short, what  pe
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What does Techno-legal Solutionism argue about KOSA and technological fixes?
+
+Answer:
+
+Yes, the answers to the questions are:
+
+1. What does Techno-legal Solutionism argue about KOSA and technological fixes?
+
+Techno-legal Solutionism argues that a technological fix has been baked into a duty of care, such as the one included in KOSA's Section 3, making matters even worse. When Lessig first argued that "code is law," he intended to signal how the design of software plays a regulating role in making certain outcomes more or less likely, rather than solving complex social issues. However, policymakers have made the techno-deterministic vision that "code can act as proxy for law in dictating futures" a reality.
+
+2. What is the source of the question about the effectiveness of techno-solutionist approaches to social problems?
+
+The question is about the effectiveness of techno-solutionist approaches to social problems, specifically regarding KOSA and its Section 3. The answer is that techno-solutionist approaches are not effective in preventing or mitigating social harms, as they rely on the application of the "technological fix" to circumvent or reduce the formidable proportions of social problems.
+
+3. What is the source of the question about the unrealistic expectations about what design can do for children?
+
+The question is about the unrealistic expectations about what design can do for children, specifically regarding KOSA and its Section 3. The answer is that policymakers' visions of social media platforms and their design features as "causal
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: document_structure
+Preview: social change while triggering a range of other outcomes  [Morozov 2013; Sætra 2023; Selbst et al. 2019] . However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is 
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: document_structure
+Preview: harms listed in bills like KOSA is universally desirable. For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they have the ability to do it. Many proponents of KOSA argue  that if there’s a forcible will, companies will fin
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: document_structure
+Preview: designers and triggered ire from critics who rejected the  solutionist orientation entirely [Burns and Studer 1975;  Oelschlaeger 1979] . Indeed, critics pejoratively labeled this  orientation as “technological determinism,” lambasting  approaches where “technology is conceptualized as an  external 
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: document_structure
+Preview: proximate cause (foreseeability of harm or intervening forces)  [Berman and Bracci 2022].  When mandating social media platforms to design for  positive outcomes, KOSA’s co -sponsors seem to disregard this  contingency of technology [Lievrouw 2006]  – the “emergent  character” of the digital technol
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: document_structure
+Preview: “technological fix” to a moral panic. Policymakers’ visions of  social media platforms and their design features “as causal  agents, entering societies as active forces of change that  humans have little power to resist” [Baym 2015] reveals their  deterministic orientation towards technology. Likewi
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What does Techno-legal Solutionism argue about KOSA and technological fixes?
+
+Answer:
+
+Yes, the sources below provide a comprehensive analysis of the arguments presented in the text material. The sources cited include:
+
+1. María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+2. File: 3614407.3643705.pdf
+Page: 7
+
+3. File: 3614407.3643705.pdf
+Page: 8
+
+4. File: 3614407.3643705.pdf
+Page: 7
+
+5. File: 3614407.3643705.pdf
+Page: 2
+
+The sources provide a detailed analysis of the arguments presented in the text material, including the techno-legal solutionism approach, the lack of evidence for the efficacy of design interventions, and the potential harm to vulnerable populations. The sources also highlight the need for a media effects theory that takes into account the complex social dynamics and experiences that are at the root of social harms.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: sentence
+Preview: Such efforts repeatedly  stumble against the flaws and limitations of these theories of  social change while triggering a range of other outcomes  [Morozov 2013; Sætra 2023; Selbst et al. However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOS
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: sentence
+Preview: For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they have the ability to do it. Many proponents of KOSA argue  that if there’s a forcible will, companies will find a way. This  approach, nevertheless, gives no considerat
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: sentence
+Preview: However, the  legislative approach that they have taken with KOSA’s duty of  care appears to be more appropriately framed as a  “technological fix” to a moral panic. Policymakers’ visions of  social media platforms and their design features “as causal  agents, entering societies as active forces of 
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: sentence
+Preview: This is not to say  that regulating the design of consumer products is not  important and cannot play an important role in creating a  healthier sociotechnical world. However, to achieve these lofty  goals, regulations of design need to adhere closely to causality  and be attentive to agency and str
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: sentence
+Preview: Rooted in this framework is a media effects theory that  unhealthy social dynamics and experiences  are a direct  outcome of and can be prevented by design decisions, rather  than being shaped by and co -constructed alongside them. Moreover, this approach presumes that it is possible to  measure the
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What does Techno-legal Solutionism argue about KOSA and technological fixes?
+
+Answer:
+
+Based on the sources provided, the answer to the question is:
+
+Yes, Techno-legal Solutionism argues that KOSA and technological fixes are a flawed approach to addressing social issues. The sources cited in the text argue that the 
+fact that a technological fix has been baked into a duty of care, such as the one included in KOSA's Section 3, makes matters worse. The techno-legal solutionism approach to problem-solving is characterized by a deterministic orientation towards technology, which is not appropriate for addressing complex social issues. The sources also argue that the legislative approach to social media platforms and their design features "as causal agents, entering societies as active forces of change that humans have little power to resist" and that "protecting young people from experiencing the negative harms listed in bills like KOSA is universally desirable" but that tech companies have the will to do so, but not the ability to do it. The sources also argue that the approach presumes that it is possible to measure the efficacy of implementing such design interventions vis-à-vis complex social dynamics.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: semantic
+Preview: However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is law,” he  intended to signal how the design of software plays a  regulating role in making certain outcomes
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: semantic
+Preview: However, the  legislative approach that they have taken with KOSA’s duty of  care appears to be more appropriately framed as a  “technological fix” to a moral panic. Policymakers’ visions of  social media platforms and their design features “as causal  agents, entering societies as active forces of 
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: semantic
+Preview: 5.2 Technological Fixes Disregard Uncertain  Effects  Protecting young people from experiencing the negative  harms listed in bills like KOSA is universally desirable. For  those who defend KOSA, the question on the table is whether  or not tech companies have the will to do so, not whether or  they
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: semantic
+Preview: Moreover, this approach presumes that it is possible to  measure the efficacy of implementing such design  interventions vis-à-vis complex social dynamics. In this paper, we argue that KOSA’s duty of care is rooted in  a deterministic theory that we label “techno -legal  solutionism.” When the law d
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: semantic
+Preview: In 1967, physicist Alvin Weinberg posited that technology  could provide shortcuts (“technological fixes”) to circumvent  or reduce social problems to less formidable proportions  [Weinberg 1967] . This framing both animated technology  designers and triggered ire from critics who rejected the  solu

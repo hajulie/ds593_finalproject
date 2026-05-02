@@ -1,0 +1,219 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Which papers in the corpus discuss copyright, and what is each paper's main contribution?
+
+Answer:
+
+Yes, the papers in the corpus discuss copyright, and what is each paper's main contribution.
+
+[1]
+File: 3614407.3643696.pdf
+Page: 5
+Citation: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+Text: right law to the generative-AI supply chain. We address issues of rightness (Section 3.1), infringement (Sections 3.3 & 3.4), and fair use (Section 3.5). We defer discussion of safe harbors, licenses, para-copyright liability, and remedies to other work. Our framework agrees with the decisions in all of these cases. Additionally, there are several casebooks (e.g., [14, 29, 38]) and law journal articles (e.g., [8–14, 75–76) that can be found at: [3.14.1] andspage:ss.e. Notify. Some ofell. Some time.
+
+
+
+<|user|
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[3] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 5
+Chunking: fixed_size
+Preview: right law to the generative-AI supply chain. We address issues of rights (Section 3.2), infringement (Sections 3.3 & 3.4), and fair use (Section 3.5). We defer discussion of safe harbors, licenses, para- copyright liability, and remedies to other work. Our goal is to be careful and systematic, not t
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: cases in §4 and show that our framework agrees with the decisions in all of these cases. Additionally, there are several casebooks (e.g., [14, 29, 38]) and law journal articles (e.g., [8–10, 53–55, 60, 71, 74, 76]) that describe and reflect the modern understanding of copyright law. In the next sect
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: Lemley and Casey [2021], Levendowski [2018], Sag [2023], and Samuelson [2024] argue that training an AI system on copyrighted content is likely transformative. These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: fixed_size
+Preview: and to noncommercial use (e.g., illustrating an academic article on generative AI). Some outputs will be put to favored purposes like education and news reporting, while other outputs will be put to run-of-the-mill entertainment purposes.75 Factor Two (“the nature of the copyrighted work” [Copyright
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: fixed_size
+Preview: Constitution of the United States. 1789. https://www.law.cornell.edu/constitution. Copyright Law of the United States 1990. https://www.law.cornell.edu/uscode/text/17/102 U.S.C. 17, 102. Copyright Law of the United States 1992. https://www.law.cornell.edu/uscode/text/17/107 U.S.C. 17, 107. Copyright
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Which papers in the corpus discuss copyright, and what is each paper's main contribution?
+
+Answer:
+
+Yes, the papers in the corpus discuss copyright, and each paper's main contribution is to answer the question "Which papers in the corpus discuss copyright, and what is each paper's main contribution?"
+
+The sources used in the corpus are:
+
+1. File: 3614407.3643696.pdf
+Page: 6
+Citation: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+Text:
+This means that the copyright in some works (e.g., product pho-
+tographs) will be "thinner" and protect fewer aspects of the works
+than the "thicker" copyrights in others (e.g, abstract art), because
+the "range of creative choices that can be made in producing the
+works is narrow" [Rentmeester v. Nike, Inc. 2018, p. 1120]. In par-
+ticular, any copyright in computer software — which is treated as a
+"literary work" for copyright purposes — typically excludes a great
+deal of functional material, such as coding conventions required
+by the choice of programming language [Samuelson 2016]. As a
+result, some individual training examples are
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[5] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: document_structure
+Preview: this means that the copyright in some works (e.g., product pho- tographs) will be “thinner” and protect fewer aspects of the works than the “thicker” copyrights in others (e.g, abstract art), because the “range of creative choices that can be made in producing the works is narrow” [Rentmeester v. Ni
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: Constitution of the United States. 1789. https://www.law.cornell.edu/constitution. Copyright Law of the United States 1990. https://www.law.cornell.edu/uscode/text/17/102 U.S.C. 17, 102. Copyright Law of the United States 1992. https://www.law.cornell.edu/uscode/text/17/107 U.S.C. 17, 107. Copyright
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 5
+Chunking: document_structure
+Preview: rights (Section 3.2), infringement (Sections 3.3 & 3.4), and fair use (Section 3.5). We defer discussion of safe harbors, licenses, para- copyright liability, and remedies to other work. Our goal is to be careful and systematic, not to say anything dramatically new. 3.1 What is copyrightable? Copyri
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: document_structure
+Preview: same” [Peter Pan Fabrics, Inc. v. Martin Weiner Corp. 1960, p. 489]. A common test is a “holistic, subjective comparison of the works to determine whether they are substantially similar in total concept and feel” [Rentmeester v. Nike, Inc. 2018, p. 1118]. This is not a standard that can be reduced t
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 2
+Chunking: document_structure
+Preview: two works is a core principle in any copyright law, so the ideas might apply in additional jurisdictions. Our framework focuses on substantial similarity, and does not cover other aspects of copyright law such as the fair use doctrine or the Digital Millenium Copyright Act (DMCA) anti-circumvention 
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Which papers in the corpus discuss copyright, and what is each paper's main contribution?
+
+Answer:
+
+Based on the provided sources, the main contribution of copyright law is its ability to protect the intellectual property rights of creators. The law provides a framework for copyright owners to control the use and distribution of their works, and it has been instrumental in promoting creativity and innovation. However, there are several limitations to copyright law, including the burden of proof required for infringement suits, the resource-intensive process of copyright law, and the potential for copyright to dissuade incentives for creative work. Additionally, copyright law is not a panacea for regulating AI development and deployment, and there is a need for assessing whether copyright fully captures the intellectual property rights needed to defend incentives for creative work.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: sentence
+Preview: Constitution, with laws including the Copyright Act of 1976 [3] leading to its current statutory form that is codified within Title 17 of the U.S. There are hundreds of Supreme Court and appellate court decisions that have shaped the way that courts interpret copyright law (e.g., [6, 7, 19, 22, 24, 
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: The obligatory structure of copyright law: Unbundling the wrong of copying. Harvard Law Review, 125(7):1664–1690, 2012. McMillan-Major, and S. On the dangers of stochastic parrots: Can language models be too big? In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: sentence
+Preview: Copyright Law’s Theory of the Consumer. Boston College Law Review 44 (2003), 397. London-Sire Records, Inc. Ryan Lowe and Jan Leike. Aligning language models to follow instructions. https://openai.com/research/instruction-following James Manyika.
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: Finally, copyright law is by no means a panacea for regulating AI development and deployment or for protecting artists in that process. The burden of proof currently falls on artists to discover works that might have infringed on theirs and to bring an action. The resource-intensive process could di
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 12
+Chunking: sentence
+Preview: Porter, 154 F.2d 464 (2d Cir. Selden, 101 US 99 (1880). [8] Shyamkrishna Balganesh. The questionable origins of the copyright infringement analysis. Stanford Law Review, 68:791–863, April 2016. [9] Shyamkrishna Balganesh, Irina D.
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Which papers in the corpus discuss copyright, and what is each paper's main contribution?
+
+Answer:
+
+Based on the provided sources, the answer to the question is:
+
+While each paper in the corpus discusses copyright, the main contribution of each paper is to provide a detailed analysis of the concept of copyright and its relationship with other intellectual property rights. The papers in the corpus discuss copyright's origins, its current state, and its potential future developments. The papers also provide insights into the legal implications of copyright, including its limitations and potential benefits. The papers in the corpus provide valuable insights into the complex and evolving field of copyright law.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[4] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: semantic
+Preview: Copyright is held by the owner/author(s). ACM ISBN 979-8-4007-03333-1/24-03.
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 12
+Chunking: semantic
+Preview: & Tech. L., 27:1, 2021. [6] Arnstein v. Porter, 154 F.2d 464 (2d Cir. 1946). [7] Baker v. Selden, 101 US 99 (1880). [8] Shyamkrishna Balganesh. The questionable origins of the copyright infringement analysis. Stanford Law Review, 68:791–863, April 2016.
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: semantic
+Preview: 2013. The Quest for a Sound Conception of Copyright’s Derivative Work Right. Georgetown Law Journal 101 (2013), 1505.
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2010. The Copyright Principles Project: Directions for Reform. Berkeley Technology Law Journal 25 (2010), 1175. Pamela Samuelson.
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2000. Keynote Address: Resolving Tensions Between Copyright and the Internet. American University Law Review 50 (2000), 409.

@@ -1,0 +1,219 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: How do the papers in the corpus describe the relationship between AI systems and copyright liability?
+
+Answer:
+
+The papers in the corpus describe the relationship between AI systems and copyright liability by analyzing the papers' citations. The papers use citations from the following sources:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+Page 1 of the paper cites Rui-Jie Yew's previous paper, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," which was published in the same conference proceedings.
+
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+Page 1 of the paper cites Rui-Jie Yew's previous paper, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[3] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: may manage or attempt to limit their copyright liability in practice. Based on this analysis, I conclude with a discussion of strategies to close these loopholes and of the role that copyright law has to play within the AI policy landscape. CCS CONCEPTS •Social and professional topics → Secondary li
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: thor’s rights. In practice, however, large, modern AI systems are increasingly built and deployed under a pre-training paradigm: large models may be trained for a multitude of applications and then subsequently specialized toward specific ones. Thus, I con- sider copyright’s indirect liability doctr
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: the meaning of copyright law for the developer to be held liable because the doctrine focuses on function rather than consciousness. They argued that while a copy machine would not have functional volition, “a more sophisticated computer could plausibly be designed to ‘choose’ whether to make a copy
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: ABSTRACT By examining the historical and doctrinal response of copyright law to new technologies, this Article offers a new analytical framework for determining liability for what it terms artificial infringement, or infringing outputs created by generative AI systems. Time and again, new technologi
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: to accommodate new technologies while maintaining a balance between copyright’s goals of protecting copyright owners’ rights and providing public access to their works. However, the refinement of the direct liability test to include causation has been neglected as a tool in the literature. Situating
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: How do the papers in the corpus describe the relationship between AI systems and copyright liability?
+
+Answer:
+
+The papers in the corpus describe the relationship between AI systems and copyright liability by analyzing the indirect copyright liability doctrine and the role of copyright law in AI policy landscapes. The main contribution of this paper lies in its analysis of what indirect copyright liability litigation for technologies in the past have to say for how AI companies may manage or attempt to limit their copyright liability in practice. The paper also offers a new analytical framework for determining liability for artificial infringement, which takes into account the challenges posed by new technologies and the need to balance protecting authors' rights to incentivize new expression and providing public access to their works. The paper also examines the history of copyright's direct liability doctrine and its use as a tool in the literature, but neglects to situate AI in the context of this doctrine.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: document_structure
+Preview: then subsequently specialized toward specific ones. Thus, I con- sider copyright’s indirect liability doctrine to consider the effect of copyright on the current market structures involved in the develop- ment and deployment of AI systems. The main contribution of this paper lies in its analysis of 
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: . In one rare example, Rosati [2024] offered an overview of potential output liability issues from an EU and UK perspective. Meanwhile, the main U.S. exception centers on the question of “volition” in copyright law. Chatterjee and Fromer [2019] proposed that AI systems might, under the right circums
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: ABSTRACT By examining the historical and doctrinal response of copyright law to new technologies, this Article offers a new analytical framework for determining liability for what it terms artificial infringement, or infringing outputs created by generative AI systems. Time and again, new technologi
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: . To make this contribution, it looks to the history of copyright’s direct liability doctrine. Courts and Congress have used a variety of tools to accommodate new technologies while maintaining a balance between copyright’s goals of protecting copyright owners’ rights and providing public access to 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: document_structure
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA to the inherent technical functionality of ML systems. ML systems could present a challenge to legal frameworks for analy
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: How do the papers in the corpus describe the relationship between AI systems and copyright liability?
+
+Answer:
+
+The papers in the corpus describe the relationship between AI systems and copyright liability in the following ways:
+
+1. File: 3614407.3643707.pdf
+Page: 1
+Citation: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+Text: The main contribution of this paper lies in its analysis of what indirect copyright liability litiga-tion for technologies in the past have to say for how AI companies may manage or attempt to limit their copyright liability in practice. Based on this analysis, I conclude with a discussion of strategies to close these loopholes and of the role that copyright law has to play within the AI policy landscape.
+
+2. File: 3709025.3712208.pdf
+Page: 1
+Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+Text: Instead
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: sentence
+Preview: The main contribution of this paper lies in its analysis of what indirect copyright liability litiga- tion for technologies in the past have to say for how AI companies may manage or attempt to limit their copyright liability in practice. Based on this analysis, I conclude with a discussion of strat
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: In one rare example, Rosati [2024] offered an overview of potential output liability issues from an EU and UK perspective. Meanwhile, the main U.S. exception centers on the question of “volition” in copyright law. Chatterjee and Fromer [2019] proposed that AI systems might, under the right circumsta
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: Instead, recognizing the AI system as a direct infringer allows the analysis to proceed to the more flexible, fault-based contributory liability and inducement standards for determining when to hold developers or users liable for their roles in the resulting infringement. Expanding beyond the fair u
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: sentence
+Preview: This Article proposes that the AI system itself could be directly liable for causing AI-generated infringements. Chatterjee and Fromer [2019] previously proposed, as a philosophical matter, that AI systems might be said to act with volition if they can evaluate whether an output is likely to infring
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: They argued that while a copy machine would not have functional volition, “a more sophisticated computer could plausibly be designed to ‘choose’ whether to make a copy.”  This Article takes a different approach, relying not on volition but on causation to propose that AI systems themselves should be
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: How do the papers in the corpus describe the relationship between AI systems and copyright liability?
+
+Answer:
+
+The papers in the corpus describe the relationship between AI systems and copyright liability in the following ways:
+
+1. How do the papers describe the relationship between AI systems and copyright liability?
+
+The papers in the corpus describe the relationship between AI systems and copyright liability in the following ways:
+
+- The papers use citations like [1] and [2] to describe the relationship between AI systems and copyright liability.
+- The papers describe how copyright law is notoriously complicated and that generative-AI systems manage to touch on a great many corners of it. They raise issues of author-ship, similarity, direct and indirect liability, and fair use, among other things.
+- The papers recognize that AI systems are often the cause of infringement because the infringing quality of the output is attributable to it. They hold the AI system directly liable for all artificial infringements.
+- The papers recognize that holding the AI system directly liable for all artificial infringements would punish them for offering or using a semiautonomous generative AI system, even though they have limited control over the specific output.
+- The papers recognize that while a copy machine would not have functional volition, "a more sophisticated computer could plausibly be designed to ‘choose’ whether to make a copy'" (Yew, 2024).
+
+2. What are the potential impacts of a pre-training regime on the application of copyright law for AI systems?
+
+The papers in the corpus consider the potential impact
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[4] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: semantic
+Preview: These systems behave differently and raise different legal issues. Second, copyright law is notoriously complicated, and generative-AI systems manage to touch on a great many corners of it. They raise issues of author- ship, similarity, direct and indirect liability, and fair use, among much else.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: CS&Law ‘25, March 25–27, Munich, Germany M. Goodyear       within this narrative demonstrates that, as a doctrinal matter, the AI system is often the cause of infringement because the infringing quality of the output is attributable to it. Holding the AI system directly liable would shift developer 
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: Meanwhile, the main U.S. exception centers on the question of “volition” in copyright law. Chatterjee and Fromer [2019] proposed that AI systems might, under the right circumstances, be sufficiently volitional within the meaning of copyright law for the developer to be held liable because the doctri
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: semantic
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development Rui-Jie Yew Brown University Massachusetts Institute of Technology USA rui-jie_yew@brown.edu ABSTRACT This paper considers the potential impacts of a pre-training regi
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 5
+Chunking: semantic
+Preview: 2023b]. Therefore, the semiautonomous nature of the AI systems means some infringements will be genuinely unforeseeable despite programmers’ and users’ best efforts [Lemley and Casey 2019]. This output unpredictability is one of AI’s greatest strength, but it would also seem to create the very real 

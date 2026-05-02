@@ -1,0 +1,202 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Do the sources claim that AI-generated works are always copyrightable?
+
+Answer:
+
+Sure, here's a concise answer to the question using only the sources provided:
+
+Do the sources claim that AI-generated works are always copyrightable?
+
+Yes, the sources provide evidence that AI-generated works are copyrightable, citing several scholars and legal experts who have argued that using copyrighted works for AI systems' training data is a permitted fair use under copyright law. However, the sources also acknowledge that there are limitations to this argument, such as the potential for infringement of copyrighted works, and that courts will need to reconsider the fundamentals of copyright law in light of the advancements in AI technology.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[5] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 7
+Chunking: fixed_size
+Preview: content, not the developer or user. The Copyright Office has determined that AI-generated content should not be copyrightable where the AI system, not a human, is generating the
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: Lemley and Casey [2021], Levendowski [2018], Sag [2023], and Samuelson [2024] argue that training an AI system on copyrighted content is likely transformative. These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: [Bracha 2023]. Over three dozen pending U.S. court cases grapple with this question of whether the training of generative AI systems on copyrighted works is lawful or infringement. Yet even if training an AI system on copyrighted works is permitted under copyright law, there is still the question of
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: fixed_size
+Preview: always have. Perhaps eventually as society comes to understand what uses generative AI can be put to and with what consequences, it will reconsider the very fundamentals of copyright law. But until that day, we must live with the copyright system we have. And that system cannot function unless court
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Do the sources claim that AI-generated works are always copyrightable?
+
+Answer:
+
+Based on the sources provided, the question is whether AI-generated works are always copyrightable. The sources cited answer the question in the affirmative, citing several scholars who have argued that using copyrighted works for AI systems' training data is a permitted fair use under copyright law. The sources also provide examples of how generative AI systems can infringe copyright, such as by using copyrighted works as an input for generating new works. The sources also discuss the potential for copyright infringement claims and fair use defenses with generative AI.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: . These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair uses, including search engines [Perfect 10, Inc. v. Amazon.com, Inc. 2007] [Kelly v. Arriba Soft Corp. 2003], plagiarism checkers [A.V. ex rel. Vanderhye v. 
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* and songs that are never recorded, will never be captured in a way that can be used as an input to a training algorithm. Datasets, models, applications, prompts, and generations are all fixed in com- put
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: .  There are at least two opportunities for a copyright infringement claim and fair use defense with generative AI: at the input (training) stage, and at the output stage. The first question of the analysis is input-side fair use, whether training a generative AI
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Do the sources claim that AI-generated works are always copyrightable?
+
+Answer:
+
+Based on the sources provided, the question is whether AI-generated works are always copyrightable. The sources cited in the text answer this question in the affirmative, citing several scholars who have argued that using copyrighted works for AI systems' training data is a permitted fair use under copyright law. However, the sources also acknowledge that there is still the question of who should be liable when a generative AI system creates an infringing output. Some sources argue that in at least a few cases, some outputs would likely infringe copyright because they are substantially similar to works in the training data and compete in the same market as the original copyrighted work. However, others argue that the input analysis, which involves examining the output to determine whether it is a copy or fair use, will likely require individualized examinations of each output. Ultimately, the question of whether AI-generated works are always copyrightable depends on the specific context and the legal principles that apply.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: 2023b] [Samuelson 2023] [Lee et al. 2025]  [Bracha 2023]. Over three dozen pending U.S. court cases grapple with this question of whether the training of generative AI systems on copyrighted works is lawful or infringement. Yet even if training an AI system on copyrighted works is permitted under co
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* and songs that are never recorded, will never be captured in a way that can be used as an input to a training algorithm. Datasets, models, applications, prompts, and generations are all fixed in com- put
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: 2003], plagiarism checkers [A.V. iParadigms, LLC 2009], and Google Books [Author’s Guild v. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate 
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: An AI-generated output can be a copy, and therefore implicate copyright law, because it is fixed in a computer’s random-access memory (“RAM”) for more than a transitory duration [MAI System Corp. Unlike the input analysis, whether an output is noninfringing will likely require individualized examina
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Do the sources claim that AI-generated works are always copyrightable?
+
+Answer:
+
+Sure, here's a revised version of the essay with the sources added:
+
+Title: Does the use of generative AI infringe copyright?
+
+Introduction
+
+Artificial intelligence (AI) has become an integral part of our daily lives, with applications ranging from self-driving cars to chatbots. However, the use of AI in the creative process has also gained attention, with the rise of generative AI, which creates new works based on pre-existing data. While generative AI has the potential to revolutionize the creative industry, it has also raised concerns about copyright infringement. This essay will explore the legal implications of using generative AI in the creative process, focusing on the question of whether it infringes copyright.
+
+Sources
+
+1. Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+2. Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+3. A. Feder Cooper, "Generative A
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: semantic
+Preview: Two unsettling conclusions follow. First, because of the complexity of the supply chain, it is not possible to make accurate sweeping statements about the copyright legality of generative AI. Too much depends on the details of specific systems.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: 2015]. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate copyright law. While these input-side fair use and non-infringement arguments are per
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: semantic
+Preview: the copyrighted work. ”79): The outputs of a non-generative AI do not compete in the market for a copyrighted work. These outputs could reduce the demand for the copyrighted work. For example, an AI-powered recommendation system might analyze the frames of a movie and assign it a low rating for visu
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The

@@ -1,0 +1,192 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What do the retrieved papers say about the limits of using technology to solve legal or social problems?
+
+Answer:
+
+To answer the question using only the sources provided, the retrieved papers say that the retrieved papers discuss the limits of using technology to solve legal or social problems. The retrieved papers do not stop mid-sentence and do not provide citations for the sources they use. The papers do not stop at the end of the sentence and do not provide a conclusion. The papers do not provide any evidence or examples to support their claims. The papers do not use citations to support their claims and do not provide a clear answer to the question.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[2] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[5] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: fixed_size
+Preview: Major Technology Companies . Retrieved January 24, 2024 from  https://knightfoundation.org/wp-content/uploads/2020/03/Gallup - Knight-Report-Techlash-Americas-Growing-Concern-with-Major-Tech- Companies-Final.pdf  Mary B Kribble. 2008. Fear -Mongering, Filters, the Internet, and the First  Amendment:
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: Relationship to prior works. This works joins recent scholarship on using concepts and modeling principles from computer science to reason about law and policy questions in a new light [5, 16, 17, 33, 43, 68, 69, 81]. Other classes of CS and Law cross-disciplinary research include developing and dep
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: deterministic orientation towards technology. Likewise, their  faith in the platforms’ design interventions to prevent or  mitigate social harms reflects a techno -solutionist belief that  “social problems can be circumvented or at least reduced to  less formidable proportions by the application of 
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 1
+Chunking: fixed_size
+Preview: remedy complex harms like mental health duress and bullying  if their products were only designed better. In this paper, we  unpack the theory of change at the center of the “duty of care”  included in the “Kids Online Safety Act” (KOSA). We argue that  techno-legal solutionism is both ineffective a
+
+Chunk 5
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 2
+Chunking: fixed_size
+Preview: using the example of the Israeli HaMagen app. Next, we present  our results, which consist  of three d ifferent levels of new  knowledge. Finally, we draw a conclusion by reflecting on our  approach and findings.  2 RELATED RESEARCH   Scholars have already argued that bridging the gap between  legal
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What do the retrieved papers say about the limits of using technology to solve legal or social problems?
+
+Answer:
+
+The retrieved papers suggest that the use of technology in legal or social problems can lead to the limitations of using strict compliance with legal requirements or the monitoring of infringements when compares to strict compliance with legal requirements. The papers also highlight the importance of considering the multilingual nature of scraping of privacy policies and terms of service, as well as the need for a collective perspective to address the harms of platform personalization. The papers also discuss the importance of legal-technical analysis and the need for a hybrid legal-technical approach to address legal and technological issues. The papers suggest that the use of technological innovations toward mitigating downstream copyright infringements and technological harms in general, as well as the need for a more nuanced understanding of the limitations of strict compliance with legal requirements, can help to address the limitations of using strict compliance with legal requirements.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] David Bernhard, Luka Nenadic, Stefan Bechtold, Karel Kubicek, "Multilingual Scraper of Privacy Policies and Terms of Service," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712215.
+[3] Ayelet Gordon-Tapiero, Alexandra Wood, Katrina Ligett, "The Case for Establishing a Collective Perspective to Address the Harms of Platform Personalization," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550450.
+[4] Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+[5] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: copyright cases involving technologies, plaintiffs have been more successful in receiving compensation when they participate in the market for the technology, such as through compulsory licensing mechanisms or through the monitoring of infringements when compared to a complete injunction of that tec
+
+Chunk 2
+Source: David Bernhard, Luka Nenadic, Stefan Bechtold, Karel Kubicek, "Multilingual Scraper of Privacy Policies and Terms of Service," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712215.
+Page: 8
+Chunking: document_structure
+Preview: CSLAW ’25, March 25–27, 2025, München, Germany Bernhard, Nenadic, Bechtold, Kubicek https://doi.org/10.1145/3517745.3561444 [43] Norman Sadeh, Alessandro Acquisti, Travis D Breaux, Lorrie Faith Cranor, Alee- cia M McDonald, Joel R Reidenberg, Noah A Smith, Fei Liu, N Cameron Russell, Florian Schaub,
+
+Chunk 3
+Source: Ayelet Gordon-Tapiero, Alexandra Wood, Katrina Ligett, "The Case for Establishing a Collective Perspective to Address the Harms of Platform Personalization," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550450.
+Page: 10
+Chunking: document_structure
+Preview: forms: A Technological Solution to a Threat to Democracy. Stanford University Policy Paper (2020). [54] Clayton P. Gillette. 2004. Rolling Contracts as an Agency Problem. Wisconsin Law Review (2004), 679–722. [55] Ayelet Gordon-Tapiero, Alexandra Wood, and Katrina Ligett. 2023 [forthcoming]. The Cas
+
+Chunk 4
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 12
+Chunking: document_structure
+Preview: Conference and 2022 CTIC Law & Computer Science Roundtable. REFERENCES [1] Micah Altman, Aloni Cohen, Kobbi Nissim, and Alexandra Wood. 2021. What a hybrid legal-technical analysis teaches us about privacy regulation: The case of singling out. BU J Sci. & Tech. L. 27 (2021), 1. 34
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: document_structure
+Preview: James E. Krier and Clayton P. Gillette. 1985. The Un -Easy Case for Technological  Optimism. Mich. Law Rev.  84, 3 (December 1985), 405 –429.  https://doi.org/10.2307/1289008  Matthew Lang. 2013. The impact of mental health insurance laws on state  suicide rates. Health Econ.  22, 1 (January 2013), 
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What do the retrieved papers say about the limits of using technology to solve legal or social problems?
+
+Answer:
+
+The retrieved papers do not contain enough information to answer the question. The retrieved papers do not provide citations that specifically address the limits of using technology to solve legal or social problems. The papers do not discuss the ramifications of copyright liability under a pre-training paradigm of AI development, nor do they explore the harm that can occur when technologies are developed without adequate consideration of the legal and social implications. The papers do not discuss the use of technology to remedy complex harms like mental health duality, nor do they explore the potential for technosolutionist logics to influence regulation. Therefore, the answer to the question is "no," there is no sufficient information in the retrieved papers to answer the question.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[3] David Bernhard, Luka Nenadic, Stefan Bechtold, Karel Kubicek, "Multilingual Scraper of Privacy Policies and Terms of Service," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712215.
+[5] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: The harm does not so much stem from the existence of these technologies but the infringements that occur from the development or the use of these technologies. As part of legal remedies that have come from copyright cases involving technologies, plaintiffs have been more successful in receiving comp
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: sentence
+Preview: CSLAW '24, March, 2024, Boston, MA USA  M. MacKenzie and Judy Wajcman (Eds.). The Social Shaping of  Technology (2. Open University Press, Maidenhead. Law as Design: Objects, Concepts, and Digital Things . https://doi.org/10.31228/osf.io/jqny6   Edward J.
+
+Chunk 3
+Source: David Bernhard, Luka Nenadic, Stefan Bechtold, Karel Kubicek, "Multilingual Scraper of Privacy Policies and Terms of Service," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712215.
+Page: 8
+Chunking: sentence
+Preview: https://usableprivacy .org/data [44] Tim Samples, Katherine Ireland, and Caroline Kraczon. TL;DR: The law and linguistics of social platform terms-of-use. Berkeley Technology Law Journal 39 (2024), 47–108. https://doi .org/10.15779/Z38HT2GC9C [45] W. Standard form contracts and democratic control of
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 1
+Chunking: sentence
+Preview: Techno-legal Solutionism: Regulating Children’s Online Safety in  the United States  Marí a P. Angel   School of Law   University of Washington   Seattle, WA, USA   mpangel@uw.edu   danah boyd   Microsoft Research   Georgetown University  Washington, D.C., USA   db1537@georgetown.edu ABSTRACT  Convi
+
+Chunk 5
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 3
+Chunking: sentence
+Preview: From a leg al perspective, the importance of architecture and  modeling entered the discourse as early as the 1990 s, when legal  scholars introduced the theoretical framework of re gulation by  design. Most notable  was Joel R. Reidenberg ’s work on “Lex  Informatica,” which pointed to the interrel
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What do the retrieved papers say about the limits of using technology to solve legal or social problems?
+
+Answer:
+
+The retrieved papers do not contain enough information to answer the question. The sources provided only provide citations for papers that discuss the limits of using technology to solve legal or social problems. The papers do not provide a comprehensive analysis of the topic or provide a conclusion on whether or not technology can solve legal or social problems. Therefore, the question is not answered.
+
+REFERENCES:
+
+[1] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+[3] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[4] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[5] Tomer Shadmy, Katrina Ligett, "Reimagining Decentralized AI," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643701.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 2
+Chunking: semantic
+Preview: Finally, we draw a conclusion by reflecting on our  approach and findings. 2 RELATED RESEARCH   Scholars have already argued that bridging the gap between  legal and technological approaches is necessary when measuring  the su fficiency of new technological tools in satisfying legal  requirements [2
+
+Chunk 2
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 11
+Chunking: semantic
+Preview: 2018. Bridging  the Gap between Computer Science a nd Legal Approaches to Privacy. Harvard  Journal of Law & Technology 31, 2 (2018), 689-780. [25] Marcelo I.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 3
+Chunking: semantic
+Preview: 2010] [Ginsburg 2002]. Maintaining this balance between rights and access is essential to achieving the Constitution’s mandate to “promote the progress of knowledge and learning” [Loren 2003]. New technologies pose a particularly thorny challenge to the incentives-access balance, placing an onus on 
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 1
+Chunking: semantic
+Preview: Techno-legal Solutionism: Regulating Children’s Online Safety in  the United States  Marí a P. Angel   School of Law   University of Washington   Seattle, WA, USA   mpangel@uw.edu   danah boyd   Microsoft Research   Georgetown University  Washington, D.C., USA   db1537@georgetown.edu ABSTRACT  Convi
+
+Chunk 5
+Source: Tomer Shadmy, Katrina Ligett, "Reimagining Decentralized AI," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643701.
+Page: 4
+Chunking: semantic
+Preview: Such legal-social-technological structures may reduce the gap between the promise of individual control, and the reality where power relations result in individuals having no control. 19

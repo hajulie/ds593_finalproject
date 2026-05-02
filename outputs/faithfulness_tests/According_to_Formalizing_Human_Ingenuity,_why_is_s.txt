@@ -1,0 +1,212 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: According to Formalizing Human Ingenuity, why is substantial similarity difficult to formalize?
+
+Answer:
+
+The sources cited in the text material do not provide a quantitative framework for determining whether two works are substantially similar. Instead, they rely on judicial discretion to translate the quantitative measure of derivation similarity into a binary decision about whether infringement has occurred. The authors suggest that key parts of the framework are 
+
+1. The plaintiff's ability to declare aspects of the original work as non-copyrighted and thus available "for free" to the defendant, even materials that might actually be copyrighted in practice, to scope the copyright claim down to the (hopefully small amount of) infringing material and mitigate this numerical stability concern.
+
+2. The numerical stability issue, which they apply their framework to several prominent copyright cases, both to illustrate how to use their framework and to demonstrate that their derivation similarity metric aligns with the courts' findings regarding copyright infringement overall; their objective in this section is to elucidate and stress-test elements of their framework.5. Testing the limits with hypothetically synthetic examples with new oral, go.5.1 Holding synthetic example.5. Their objective in this section.5. Their objective. Their, androstat.5. Their framework.5. Their framework.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.
+5.5.5.5.5.5.5.5.5.5.5.5.5.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA presently does not encompass randomized algorithms, and only partially handles hidden information or trade secrets [10]; see §3.3 and §6 for details. For these and other reasons, this quantitative framework should not be 
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity Sarah Scheffler sscheff@princeton.edu Princeton University Princeton, NJ, USA Eran Tromer tromer@cs.columbia.edu Columbia University New York, NY, USA Mayank Varia varia@bu.edu Boston University Boston, 
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 7
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA the numerical stability issue, we rely on the plaintiff’s ability to declare aspects of 𝑥 as non-copyrighted and thus available “for free” to 𝑃 and 𝑅, even materials that might actually be copyrighted in practice, to scop
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 11
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA 5 TESTING THE LIMITS WITH HYPOTHETICAL EXAMPLES In this section, we describe a few synthetic scenarios with new wrinkles that go beyond the precedent-setting cases from §4. Our objective in this section is to elucidate an
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA [17] Aloni Cohen and Kobbi Nissim. Towards formalizing the GDPR’s notion of singling out. Proc. Natl. Acad. Sci. USA, 117(15):8344–8352, 2020. [18] Amy B Cohen. Masking copyright decisionmaking: The meaninglessness of sub
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: According to Formalizing Human Ingenuity, why is substantial similarity difficult to formalize?
+
+Answer:
+
+The answer to the question is:
+
+The sources provided in the text material do not contain enough information to answer the question. The given sources only provide citations for the sources they cite, and do not provide any information about the sources themselves. Therefore, the answer to the question is not provided in the given text material.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: document_structure
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA [17] Aloni Cohen and Kobbi Nissim. Towards formalizing the GDPR’s notion of singling out. Proc. Natl. Acad. Sci. USA, 117(15):8344–8352, 2020. [18] Amy B Cohen. Masking copyright decisionmaking: The meaninglessness of sub
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: document_structure
+Preview: “formed by the collection and assembling of preexisting materi- als” [Copyright Law of the United States 2010a]. To the extent that a model is similar to a work it was trained on, it is a derivative work because it is “based on” its training data. (Section 3.3). Similarly, a prompt could be a reprod
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: document_structure
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity Sarah Scheffler sscheff@princeton.edu Princeton University Princeton, NJ, USA Eran Tromer tromer@cs.columbia.edu Columbia University New York, NY, USA Mayank Varia varia@bu.edu Boston University Boston, 
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 11
+Chunking: document_structure
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA 5 TESTING THE LIMITS WITH HYPOTHETICAL EXAMPLES In this section, we describe a few synthetic scenarios with new wrinkles that go beyond the precedent-setting cases from §4. Our objective in this section is to elucidate an
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 7
+Chunking: document_structure
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA the numerical stability issue, we rely on the plaintiff’s ability to declare aspects of 𝑥 as non-copyrighted and thus available “for free” to 𝑃 and 𝑅, even materials that might actually be copyrighted in practice, to scop
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: According to Formalizing Human Ingenuity, why is substantial similarity difficult to formalize?
+
+Answer:
+
+Based on the sources provided, the question is:
+
+Question: According to Formalizing Human Ingenuity, why is substantial similarity difficult to formalize?
+
+Sources:
+
+[1] File: 3614407.3643696.pdf
+Page: 12
+Citation: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+Text:
+Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity
+
+Sources:
+
+[2] File: 3614407.3643696.pdf
+Page: 6
+Citation: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+Text:
+To the extent that a model is similar to a work it was trained on, it is a derivative work
+because it is “based on” its training data. Similarly, a prompt could be a reproduction or derivative of an existing
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[3] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: sentence
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity. InProceedings of the Symposium on Computer Science and Law . Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade W Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, 
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: sentence
+Preview: To the extent that a model is similar to a work it was trained on, it is a derivative work because it is “based on” its training data. Similarly, a prompt could be a reproduction or derivative of an existing work (as when a diffusion model is prompted with an image to infill) [An- thropic 2023]. And
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: sentence
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA [17] Aloni Cohen and Kobbi Nissim. Towards formalizing the GDPR’s notion of singling out. USA, 117(15):8344–8352, 2020. Masking copyright decisionmaking: The meaninglessness of substantial similarity. [19] Computer Associ
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: sentence
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity Sarah Scheffler sscheff@princeton.edu Princeton University Princeton, NJ, USA Eran Tromer tromer@cs.columbia.edu Columbia University New York, NY, USA Mayank Varia varia@bu.edu Boston University Boston, 
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 15
+Chunking: sentence
+Preview: While automated methods could help identify works in the training set that are likely to be similar to the generation, there is no automated metric that can definitively say if two works are substantially similar. See generally Scheffler et al. [2022] (which proposes one possibility for a metric for
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: According to Formalizing Human Ingenuity, why is substantial similarity difficult to formalize?
+
+Answer:
+
+According to Formalizing Human Ingenuity, the substantial similarity difficult to formalize is due to the fact that substantial similarity is difficult to formalize due to the lack of a quantitative framework for copyright law's substantial similarity. The authors use synthetic scenarios with new wrinkles to test the limits of their modeling decisions and further justify some of their modeling decisions. The authors rely on judicial discretion to translate their quantitative measurement of derivation similarity into a binary decision about whether infringement has occurred. The authors also acknowledge that the question of whether there is copyright infringement overall is not addressed by their quantitative framework.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[5] Kristof Meding, Christoph Sorge, "What constitutes a Deep Fake? The blurry line between legitimate processing and manipulation under the EU AI Act," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712218.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 11
+Chunking: semantic
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA 5 TESTING THE LIMITS WITH HYPOTHETICAL EXAMPLES In this section, we describe a few synthetic scenarios with new wrinkles that go beyond the precedent-setting cases from §4. Our objective in this section is to elucidate an
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: semantic
+Preview: 2022. Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity. InProceedings of the Symposium on Computer Science and Law . 37–49.
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: semantic
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA [17] Aloni Cohen and Kobbi Nissim. Towards formalizing the GDPR’s notion of singling out. Proc.
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: semantic
+Preview: Formalizing Human Ingenuity CSLAW ’22, November 1–2, 2022, Washington, DC, USA presently does not encompass randomized algorithms, and only partially handles hidden information or trade secrets [10]; see §3.3 and §6 for details. For these and other reasons, this quantitative framework should not be 
+
+Chunk 5
+Source: Kristof Meding, Christoph Sorge, "What constitutes a Deep Fake? The blurry line between legitimate processing and manipulation under the EU AI Act," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712218.
+Page: 4
+Chunking: semantic
+Preview: . ] Adding the word appreciably might slightly change the meaning of the definition, emphasizing the resemblance to existing objects [4]. The question arises “whether the requirement of resemblance de- mands identicality or similarity to the existing subjects.

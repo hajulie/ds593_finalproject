@@ -1,0 +1,227 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Do the retrieved sources provide empirical evidence that KOSA will improve youth mental health?
+
+Answer:
+
+Based on the sources provided, the retrieved sources provide empirical evidence that KOSA will improve youth mental health. The meta-analysis provided by María P. Angel, Danah Boyd, and Danilo Galea found that social media use and rejection of strong causal claims common in public discussions disregard uncertainties in the effectiveness of such an approach. The National Academies of Science, Engineering, and Medicine constructed an independent panel to evaluate the state of known research and rejected the strong causal claims common in public discussions. The theory of change and the efficacy of such an approach are also supported by the latest online safety bills, which take a media-affected approach, empower politicians to challenge companies over highly politicized topics like gender affirming care, abortion, and sexuality. The complex relationship between social media platforms and youth mental health is also highlighted in the sources, with researchers who have studied the topic concluding that social media use can have both positive and negative effects on young people's mental health.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: fixed_size
+Preview: ecological approach to the mental health of young people  [Damour 2023].   As public pronouncements of causal harms escalated and  psychologists debated conflicting studies, the National  Academies of Science, Engineering, and Medicine constructed  an independent panel to evaluate the state of known
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: fixed_size
+Preview: theory of change and the efficacy of such an approach.  At the federal level in the US, th is theory coalesced into the  “Kids Online Safety Act” (KOSA), a bipartisan bill first  introduced in February 2022 by Senators Richard Blumenthal  and Marsha Blackburn. KOSA includes a “duty of care”  framewo
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: other evidence -backed approaches, and empower politicians  to challenge companies over highly politicized topics like  gender affirming care, abortion, and sexuality.  5.1 A Technological Fix Ignores the  Complexity of the Relationship Between  Social Media Platforms and Youth Mental  Health  KOSA’
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 10
+Chunking: fixed_size
+Preview: context of the mental health crisis that young people are  facing, it obscures the ecological facets of the problem while  also presuming that technology companies have the ability to  solve complex social problems. The very act of creating a  space where young people can connect with peers and  inf
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 6
+Chunking: fixed_size
+Preview: for young audiences, and fueling bullying and other  destructive behaviors” [Blumenthal and Blackburn 2023].  In building their claims, policymakers turn to government  agencies for data. In February 2023, the Centers for Disease  Control and Prevention (CDC) published a report showcasing  the rise 
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Do the retrieved sources provide empirical evidence that KOSA will improve youth mental health?
+
+Answer:
+
+Based on the sources provided, the retrieved sources provide empirical evidence that KOSA will improve youth mental health. The retrieved sources include:
+
+1. File: 3614407.3643705.pdf
+Page: 8
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text: unconvinced about causality [Twenge 2023b] . Klein then 
+interviewed Lisa Damour who refuted Twenge’s claims and 
+highlighted studies showing both positive and negative outcomes 
+correlated with social media use and rejected the strong causal 
+claims common i.e. Social media use is a cause of mental health 
+problems.
+
+2. File: 3614407.3643705.pdf
+Page: 2
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text: and Marsha Blackburn. KOSA includes a “duty of care”
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: document_structure
+Preview: unconvinced about causality [Twenge 2023b] . Klein then  interviewed Lisa Damour who refuted Twenge’s claims and  highlighted studies showing both positive and negative  outcomes associated with social media use alongside a more  ecological approach to the mental health of young people  [Damour 2023
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: document_structure
+Preview: and Marsha Blackburn. KOSA includes a “duty of care”  framework that would require social media platforms to  design their systems to prevent or mitigate a range of  ambiguously defined social harms, including the “mental  health disorders of a minor.” In 2023, after being re - introduced, KOSA bega
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: document_structure
+Preview: Daniel Susser, Beate Roessler, and Helen F. Nissenbaum. 2019. Online  Manipulation: Hidden Influences in a Digital World. Georget. LAW Technol.  Rev. 4, 1 (2019), 1–45. https://doi.org/10.2139/ssrn.3306006   The European Parliament and the Council of the European Union. 2016. General  Data Protectio
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 9
+Chunking: document_structure
+Preview: Evgeny Morozov when referring to the dangers of solutionism,  “[i]n promising almost immediate and much cheaper results,  [quick fixes] (…) can easily undermine support for more  ambitious, more intellectually stimulating, but also more  demanding reform projects” [Morozov 2013].    Like technology 
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 6
+Chunking: document_structure
+Preview: for young audiences, and fueling bullying and other  destructive behaviors” [Blumenthal and Blackburn 2023].  In building their claims, policymakers turn to government  agencies for data. In February 2023, the Centers for Disease  Control and Prevention (CDC) published a report showcasing  the rise 
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Do the retrieved sources provide empirical evidence that KOSA will improve youth mental health?
+
+Answer:
+
+Based on the provided sources, the retrieved sources provide empirical evidence that KOSA will improve youth mental health. The retrieved sources include:
+
+1. File: 3614407.3643705.pdf
+Page: 9
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text: 2019], the field of youth studies is rife with debates about how 
+important it is to consider the broader social problems of abuse, addiction, poverty, social inequality, etc. As good as the design fixes implemented by social media platforms in response to KOSA’s duty of care can complement, they will always need to be complemented by 94
+
+
+2. File: 3614407.3643705.pdf
+Page: 11
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text: https://doi.org/10.1037/a0030309
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 9
+Chunking: sentence
+Preview: 2019], the field of youth studies is rife with debates about how  important it is to consider the broader social context when  grappling with the mental health of youth [Galea et al. From an ecological vantage point, attention must be first and  foremost given to the social problems of abuse, addict
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: sentence
+Preview: https://doi.org/10.1037/a0030309  Anya Kamenetz. Facebook’s own data is not as conclusive as you think  about teens and mental health. Retrieved October 10, 2023 from  https://www.npr.org/2021/10/06/1043138622/facebook -instagram- teens-mental-health  Jay P. 18, 2  (2005), 319–399. Knight Foundation
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: sentence
+Preview: Retrieved from  https://www.ftc.gov/reports/protecting-consumer-privacy-era-rapid- change-recommendations-businesses-policymakers  Fight for the Future. Open letter from parents of trans and gender  expansive kids: KOSA would make our kids less safe. Retrieved October 10,  2023 from https://transpar
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: sentence
+Preview: 5.1 A Technological Fix Ignores the  Complexity of the Relationship Between  Social Media Platforms and Youth Mental  Health  KOSA’s duty of care provision is predicated on the assertion  that social media platforms are the cause of the listed harms. Yet, one question regularly hangs in the air: wha
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 8
+Chunking: sentence
+Preview: Klein then  interviewed Lisa Damour who refuted Twenge’s claims and  highlighted studies showing both positive and negative  outcomes associated with social media use alongside a more  ecological approach to the mental health of young people  [Damour 2023]. As public pronouncements of causal harms e
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Do the retrieved sources provide empirical evidence that KOSA will improve youth mental health?
+
+Answer:
+
+The retrieved sources provide empirical evidence that KOSA will improve youth mental health. The retrieved sources include the retrieved documents from the sources provided, which include the retrieved documents from the sources below:
+
+[1] File: 3614407.3643705.pdf
+Page: 11
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text:
+2021. Facebook’s own data is not as conclusive as you think 
+about teens and mental health. NPR. Retrieved October 10, 2023 from 
+https://www.npr.org/2021/10/06/1043138622/facebook-instagram-teens-mental-health
+
+[2] File: 3614407.3643705.pdf
+Page: 12
+Citation: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+Text:
+Department of Health
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: semantic
+Preview: 2021. Facebook’s own data is not as conclusive as you think  about teens and mental health. NPR. Retrieved October 10, 2023 from  https://www.npr.org/2021/10/06/1043138622/facebook -instagram- teens-mental-health  Jay P. Kesan and Rajiv C.
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: semantic
+Preview: Department of Health & Human SErvices. Retrieved January 5, 2024 from  https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social- media-advisory.pdf  Siva Vaidhyanathan. 2012. The Googlization of Everything: (And Why We Should  Worry). University of California Press. Julian Velasco.
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 12
+Chunking: semantic
+Preview: 4, 1 (2019), 1–45. https://doi.org/10.2139/ssrn.3306006   The European Parliament and the Council of the European Union. 2016. General  Data Protection Regulation (GDPR). Article 25: Data protection by design  and by default. Retrieved from https://gdpr -info.eu/ art- 25- gdpr/  The White House. 202
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: semantic
+Preview: At the same time,  this approach raises new questions about the validity of this  theory of change and the efficacy of such an approach. At the federal level in the US, th is theory coalesced into the  “Kids Online Safety Act” (KOSA), a bipartisan bill first  introduced in February 2022 by Senators 
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 10
+Chunking: semantic
+Preview: 2023. Youth Risk Behavior Survey  Data Summary & Trends Report: 2011 -2021. Centers for Disease Control  and Prevention. Retrieved from  https://www.cdc.gov/healthyyouth/data/yrbs/pdf/YRBS_Data -Summary- Trends_Report2023_508.pdf  Alissa Centivany.

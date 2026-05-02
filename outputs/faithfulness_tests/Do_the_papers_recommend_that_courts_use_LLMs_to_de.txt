@@ -1,0 +1,233 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Do the papers recommend that courts use LLMs to decide copyright cases?
+
+Answer:
+
+Yes, the sources provided in the text material do not contain citations for the papers recommended by the RAG assistant. The sources only provide citations for the papers that are mentioned in the text material.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[2] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[3] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: decisions and legal scholarship surrounding copyright law, which is too broad to do justice to in this space. The United States Congress’ power to grant copyright protections is listed in Article I, Section 8 of the U.S. Constitution, with laws including the Copyright Act of 1976 [3] leading to its 
+
+Chunk 2
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: fixed_size
+Preview: ∗Equal contribution. †Equal advising. This work is licensed under Creative Commons Attribution International 4.0. CS&Law ’25, March 25-27, 2025, Munich, Germany © 2025 Copyright held by the owner/author(s). Publication rights licensed to ACM.  ACM ISBN 979-8-4007-1421-4/2025/03 https://doi.org/10.11
+
+Chunk 3
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 1
+Chunking: fixed_size
+Preview: [13]. RAG pipelines should be able to provide LLMs with exactly this type of granular, jurisdiction-specific legal information. Whether LLMs can effectively use that information is another question [24]. RAG pipelines are most successful when retrieving factual information that an LLM can copy into 
+
+Chunk 4
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: fixed_size
+Preview: answering questions about the law in various jurisdictions, iden- tifying potential legal issues in client cases, drafting agreements, and more [1]. Applying LLMs towards legal tasks requires resolving distinc- tive challenges posed by the legal domain. For instance, legal tasks are often fact-inten
+
+Chunk 5
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 2
+Chunking: fixed_size
+Preview: CSLAW ’25, March 25–27, 2025, München, Germany Doyle, Colin and Tucker, Aaron are clear and succinct, and they are already structured as step-by- step instructions for attorneys to follow. With other kinds of legal documents, the verbosity and complexity of the retrieved material might cause an LLM 
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Do the papers recommend that courts use LLMs to decide copyright cases?
+
+Answer:
+
+---
+
+
+[6]
+File: 3511265.3550444.pdf
+Page: 10
+Citation: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+Text:
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[84]
+[85]
+[86]
+[87]
+[88]
+[89
+[91]
+92
+[93]
+[94
+[95
+[999.10.
+[10.
+[997.
+
+[91]
+[9, and, PM, please, and/bench,>
+
+<9. Metro. Metro, providing
+[95:10. Metap:
+9. Meta35.
+9.
+menting forwards.
+3.10.9,10,93.
+910.
+[393.
+9,3.9333 or 9,3.
+9, 9,3,3,9
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[4] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[5] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: document_structure
+Preview: and appellate court decisions that have shaped the way that courts interpret copyright law (e.g., [6, 7, 19, 22, 24, 28, 30, 36, 41, 41, 42, 51, 61, 62, 64, 65, 72, 75, 82, 85, 86, 89]); we describe several landmark cases in §4 and show that our framework agrees with the decisions in all of these ca
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: document_structure
+Preview: [84] Shaw v. Lindheim, 919 F. 2d 1353 (9th Cir. 1990). [85] Sheldon v. Metro-Goldwyn Pictures Corp., 81 F. 2d 49, 54 (CA2 1936). [86] Sid & Marty Krofft TV Prods. v. McDonald’s Corp., 562 F.2d 1157 (9th Cir. 1977). [87] Cathay YN Smith. Truth, lies, and copyright. Nev. Law Journal, 20:201, 2019. [88
+
+Chunk 4
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 1
+Chunking: document_structure
+Preview: swer legal questions that depend upon jurisdiction-specific rules [13]. RAG pipelines should be able to provide LLMs with exactly this type of granular, jurisdiction-specific legal information. Whether LLMs can effectively use that information is another question [24]. RAG pipelines are most success
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Do the papers recommend that courts use LLMs to decide copyright cases?
+
+Answer:
+
+Based on the sources provided, the papers recommend that courts use LLMs to decide copyright cases. The sources cited include Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208, and Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220, and Eran Tromer, Mayank Varia, Sarah Scheffler, and Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444, and Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM,
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[3] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. 508 F.3d 1146 (9th Cir. 847 F.3d 657 (9th Cir. Petroleos Mexicanos Refinacion v. Nicholson Price II and I.
+
+Chunk 2
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 11
+Chunking: sentence
+Preview: [17] Would the LLM answer questions differently if it were told that its client was the defendant or plaintiff? To de- compose legal rules, we broke them down in the way that a lawyer would. Could LLMs be trained to better follow compositional in- structions? Might there be more effective non-anthro
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: sentence
+Preview: Constitution, with laws including the Copyright Act of 1976 [3] leading to its current statutory form that is codified within Title 17 of the U.S. There are hundreds of Supreme Court and appellate court decisions that have shaped the way that courts interpret copyright law (e.g., [6, 7, 19, 22, 24, 
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: sentence
+Preview: These two considerations are intervowen: Judge Learned Hand famously depicted the chal- lenge as determining “when an imitator has gone beyond copying the ‘idea, ’ and has borrowed its ‘expression”’ [72]. Alas, legal doctrine and case law are notoriously unclear on the definition of such substantial
+
+Chunk 5
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 1
+Chunking: sentence
+Preview: One noted shortcoming of LLM performance with legal reasoning tasks is a lack of knowledge about jurisdiction-specific rules and precedent [24]. With American law, all fifty states have their own, indepen- dent state constitutions, statutes, rules of procedure, and govern- ing caselaw. Although the 
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Do the papers recommend that courts use LLMs to decide copyright cases?
+
+Answer:
+
+The papers do not recommend that courts use LLMs to decide copyright cases. The question is whether courts should use LLMs to decide copyright cases. The answer is no, as LLMs do not have the legal reasoning ability to make legal arguments. The papers do not provide any evidence or examples of LLMs' legal reasoning ability.
+
+REFERENCES:
+
+[1] Morgan Gray, Li Zhang, Kevin D. Ashley, "Generating Case-Based Legal Arguments with LLMs," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712216.
+[2] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[3] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[4] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Morgan Gray, Li Zhang, Kevin D. Ashley, "Generating Case-Based Legal Arguments with LLMs," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712216.
+Page: 1
+Chunking: semantic
+Preview: Generating Case-Based  Legal Arguments with LLMs . In Symposium on Computer Science and Law  (CSLAW ’25), March 25–27, 2025, München, Germany.
+
+Chunk 2
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: semantic
+Preview: Publication rights licensed to ACM. ACM ISBN 979-8-4007-1421-4/2025/03 https://doi.org/10.1145/3709025.3712219 1 Introduction There is significant excitement towards using large language model (LLM) tools to improve the quality and cost of legal services [24]. Already, lawyers across the world have 
+
+Chunk 3
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 4
+Chunking: semantic
+Preview: [6]. At the time of writing, it remains an open question whether LLMs have developed an emergent legal reasoning ability, how much of LLMs’ success at legal reasoning tasks is dependent upon similar examples within the LLMs’ training data, and how much an LLMs’ strong performance with one type of le
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2024. CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. Perfect 10, Inc.
+
+Chunk 5
+Source: Morgan Gray, Li Zhang, Kevin D. Ashley, "Generating Case-Based Legal Arguments with LLMs," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712216.
+Page: 2
+Chunking: semantic
+Preview: These models would have practical utility but for two weak- nesses: First, they relied on manually annotating cases’ factors based on human coders’ reading of the case texts. Second, it has not been clear how LLMs can generate legal arguments that correspond to these models’ argument schemes in a wa
