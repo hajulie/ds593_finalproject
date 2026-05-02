@@ -1,0 +1,185 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Which paper discusses substantial similarity in copyright law, and what framework does it propose?
+
+Answer:
+
+To answer the question using only the sources provided, the paper discusses substantial similarity in copyright law, and provides a framework for measuring the degree of similarity between two works. The paper proposes a quantitative framework for copyright law's substantial similarity, which is based on the minimum description length (MDL) and Kolmogorov-Levin complexity (KLC) metrics. The framework is applied to several pivotal cases in copyright law and is consistent with the abstraction-filtration-comparison test of Altai. The paper also suggests that the substantial similarity test in copyright law is philosophically aligned with the abstraction-filtration-comparison test, and that the framework proposed in the paper can be applied to other fields of law. The paper concludes that the proposed framework can be useful for legal scholars and practitioners in understanding and applying copyright law.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 2
+Chunking: fixed_size
+Preview: similarity metric privately—that is, so that only the result is revealed in the public record. Limitations. This paper only considers copyright law in the United States; that said, measuring the degree of similarity between two works is a core principle in any copyright law, so the ideas might apply
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: fixed_size
+Preview: courts as an aid for deciding substantial similarity. We evaluate it on several pivotal cases in copyright law and observe that the results are consistent with the rulings, and are philosophically aligned with the abstraction-filtration-comparison test of Altai. CCS CONCEPTS • Applied computing → La
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: fixed_size
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity Sarah Scheffler sscheff@princeton.edu Princeton University Princeton, NJ, USA Eran Tromer tromer@cs.columbia.edu Columbia University New York, NY, USA Mayank Varia varia@bu.edu Boston University Boston, 
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: cases in §4 and show that our framework agrees with the decisions in all of these cases. Additionally, there are several casebooks (e.g., [14, 29, 38]) and law journal articles (e.g., [8–10, 53–55, 60, 71, 74, 76]) that describe and reflect the modern understanding of copyright law. In the next sect
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 11
+Chunking: fixed_size
+Preview: zero knowledge in copyright cases as well, where some of the same dynamics may apply. Value to the legal system. Before delving into technical details, we make three remarks about why it might be valuable from a legal perspective to reveal only the result of a derivation similarity test 47
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Which paper discusses substantial similarity in copyright law, and what framework does it propose?
+
+Answer:
+
+The answer to the question is:
+
+While the paper discusses substantial similarity in copyright law, it does not provide a formal quantitative framework for determining this concept. Instead, it proposes a framework for analyzing the derivation of a work from another work, which is consistent with the decisions in a wide variety of landmark court cases involving copyright law over the past century. The paper also provides a simple cryptographic algorithm for computing the derivation similarity metric, which can be used privately to determine whether two works are substantially similar. The paper also discusses the limitations of current approaches to determining substantial similarity in copyright law, and suggests that a more comprehensive framework is needed.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[4] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 2
+Chunking: document_structure
+Preview: similarity tests (after providing a primer on copyright law for computer scientists). • In §3, we contribute our quantitative metric of derivation similarity, which quantifies the extent to which one work is substantially similar to another. • In §4, we validate and justify our framework by showing 
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 2
+Chunking: document_structure
+Preview: two works is a core principle in any copyright law, so the ideas might apply in additional jurisdictions. Our framework focuses on substantial similarity, and does not cover other aspects of copyright law such as the fair use doctrine or the Digital Millenium Copyright Act (DMCA) anti-circumvention 
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: document_structure
+Preview: on the original run afoul of copyright law. These two considerations are intervowen: Judge Learned Hand famously depicted the chal- lenge as determining “when an imitator has gone beyond copying the ‘idea, ’ and has borrowed its ‘expression”’ [72]. Alas, legal doctrine and case law are notoriously u
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: document_structure
+Preview: University of Pittsburgh Law Review 47 (1985), 1185. Pamela Samuelson. 2013. The Quest for a Sound Conception of Copyright’s Derivative Work Right. Georgetown Law Journal 101 (2013), 1505. Pamela Samuelson. 2016. Functionality and Expression in Computer Programs: Re- fining the Tests for Software Co
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: document_structure
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity Sarah Scheffler sscheff@princeton.edu Princeton University Princeton, NJ, USA Eran Tromer tromer@cs.columbia.edu Columbia University New York, NY, USA Mayank Varia varia@bu.edu Boston University Boston, 
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Which paper discusses substantial similarity in copyright law, and what framework does it propose?
+
+Answer:
+
+Based on the sources provided, the paper discusses substantial similarity in copyright law and proposes a quantitative framework for determining whether two works are substantially similar. The paper argues that in spite of the complexity of the issue, there is a "great amount of confusion" among courts and scholars regarding the definition of substantial similarity. The proposed framework is based on a formalization of human ingenuity, which includes a set of quantitative tests to systematize the substantial similarity repertoire. The paper also highlights several landmark cases and law journal articles that reflect the modern understanding of copyright law.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: sentence
+Preview: structure, scope, and purpose continue to confound courts and scholars, ” and that in spite of its “centrality . to copyright law, its complexity renders it a virtual black hole in copyright jurisprudence” [8]. Lim makes a similar comment, calling substantial similarity “copyright infringement’s bla
+
+Chunk 2
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: sentence
+Preview: Constitution, with laws including the Copyright Act of 1976 [3] leading to its current statutory form that is codified within Title 17 of the U.S. There are hundreds of Supreme Court and appellate court decisions that have shaped the way that courts interpret copyright law (e.g., [6, 7, 19, 22, 24, 
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: sentence
+Preview: Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity. InProceedings of the Symposium on Computer Science and Law . Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade W Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, 
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: sentence
+Preview: a reevaluation of assessing substantial similarity in a copyright infringement case. Journal of Law and Policy, 15, 2007. United States, 354 U.S. [76] Pamela Samuelson. A fresh look at tests for nonliteral copyright infringement. Northwestern University Law Review, 107:1821, 2013.
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: sentence
+Preview: https://www.wired.com/story/battle-over-books3/ Alan Latman. “Probative Similarity” as Proof of Copying: Toward Dispelling Some Myths in Copyright Infringement. Columbia Law Review 90 (1990), 1187. Feder Cooper, James Grimmelmann, and Daphne Ippolito. AI and Law: The Next Generation. Katherine Lee, 
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Which paper discusses substantial similarity in copyright law, and what framework does it propose?
+
+Answer:
+
+The paper "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity" by Sarah Scheffler, Eran Tromer, and Mayank Varia proposes a framework for measuring the degree of similarity between two works, which they call "substantial similarity." The framework focuses on the "substantial similarity" between two works, which they define as "the degree to which the works are similar in terms of their content, style, and other relevant factors." The paper also discusses other approaches to measuring copyright infringement, including the "substantial similarity" requirement, and notes that there is no shortage of proposed tests for this requirement. The paper concludes that the proposed framework is a useful tool for analyzing copyright infringement cases and for developing policies and procedures to prevent and address copyright infringement.
+
+REFERENCES:
+
+[1] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 2
+Chunking: semantic
+Preview: Limitations. This paper only considers copyright law in the United States; that said, measuring the degree of similarity between two works is a core principle in any copyright law, so the ideas might apply in additional jurisdictions. Our framework focuses on substantial similarity, and does not cov
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: semantic
+Preview: 1990. “Probative Similarity” as Proof of Copying: Toward Dispelling Some Myths in Copyright Infringement. Columbia Law Review 90 (1990), 1187.
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 12
+Chunking: semantic
+Preview: 2022. Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law’s Substantial Similarity. InProceedings of the Symposium on Computer Science and Law . 37–49.
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 1
+Chunking: semantic
+Preview: . to copyright law, its complexity renders it a virtual black hole in copyright jurisprudence” [8]. Lim makes a similar comment, calling substantial similarity “copyright infringement’s black box” [59]. Roodhuyzen observes that “[t]here is a great amount of confusion among courts and commentators as
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 12
+Chunking: semantic
+Preview: & Tech. L., 27:1, 2021. [6] Arnstein v. Porter, 154 F.2d 464 (2d Cir. 1946). [7] Baker v. Selden, 101 US 99 (1880). [8] Shyamkrishna Balganesh. The questionable origins of the copyright infringement analysis. Stanford Law Review, 68:791–863, April 2016.

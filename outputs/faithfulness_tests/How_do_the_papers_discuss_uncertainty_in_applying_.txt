@@ -1,0 +1,212 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: How do the papers discuss uncertainty in applying existing law to AI or computational systems?
+
+Answer:
+
+The papers discuss uncertainty in applying existing law to AI or computational systems. The sources cited in the text include Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220, and Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Katie Atkinson, Floris Bourcier, Paul Bourgine, Jack G. Conrad, Enrico Franca, Thomas F. Gordon, Guido Governatori, Jochen L. Leidner, David D. Liew, and Adam Z. Wyner. The papers discuss a history of AI and law in 50 papers, including Florim Memedi, Michael P. Goodyear, Robert Ger, and Adam Z. Wyner. The papers conclude that AI systems' opacity and unpredictability make it difficult to show causation by the developer or user of the AI system, and that strict or de facto liability for AI systems would lead to unjust outcomes. The papers propose that the law must find ways to bring ML to account for the harms it causes. The papers suggest that the law must find ways to bring the distributional and the individual together, such that it can successfully bring ML to account for the harms it causes. The papers suggest thatk, and the law must find ways to bring the law and the individual
+
+REFERENCES:
+
+[1] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+[5] Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 11
+Chunking: fixed_size
+Preview: from Human Feedback. arXiv:2204.05862 [cs.CL] https://arxiv.org/abs/2204.05862 [4] Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Katie Atkinson, Floris Bex, Filipe Borges, Daniele Bourcier, Paul Bourgine, Jack G. Conrad, Enrico Francesconi, Thomas F. Gordon, Guido Governatori, Jochen L. Lei
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: fixed_size
+Preview: For example, a judge on the San Francisco County Superior Court concluded that it will be difficult to apply traditional tort doctrines to autonomous robots [Karnow 2016]. Balkin [2015] similarly concluded that traditional liability would be a poor fit for self-learning systems because “[c]ode is la
+
+Chunk 3
+Source: A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+Page: 8
+Chunking: fixed_size
+Preview: contributes to uncertainty in the behavior of ML systems. As we have seen through brief examples concerning unfairness, uncer- tainty and non-determinism, not just individual outcomes, can themselves implicate harms. Since the law will necessarily focus on harms, its work will be to close the gap be
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: fixed_size
+Preview: As machines become more autonomous, the causation line is increasingly hazy. AI systems’ opacity and unpredictability make it difficult at best to show causation by the developer or user of the AI system [Lior 2020]. For example, Kaminski [2023] has written that “[w]hen an AI system causes harm, it 
+
+Chunk 5
+Source: Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+Page: 1
+Chunking: fixed_size
+Preview: A Proxy for Assessing the Automatic Encodability of Regulation Clement Guitton∗ Institute of Computer Science, University of St. Gallen clement.guitton@unisg.ch Simon Mayer Institute of Computer Science, University of St. Gallen simon.mayer@unisg.ch Aurelia Tamò-Larrieux Faculty of Law, Maastricht U
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: How do the papers discuss uncertainty in applying existing law to AI or computational systems?
+
+Answer:
+
+The papers discussed in the given material discuss uncertainty in applying existing law to AI or computational systems. The sources cited in the text include:
+
+1. Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+
+2. Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+3. A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+
+4. Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law, ACM, 2025,
+
+REFERENCES:
+
+[1] Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+[4] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+Page: 1
+Chunking: document_structure
+Preview: A Proxy for Assessing the Automatic Encodability of Regulation Clement Guitton∗ Institute of Computer Science, University of St. Gallen clement.guitton@unisg.ch Simon Mayer Institute of Computer Science, University of St. Gallen simon.mayer@unisg.ch Aurelia Tamò-Larrieux Faculty of Law, Maastricht U
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: document_structure
+Preview: . As machines become more autonomous, the causation line is increasingly hazy. AI systems’ opacity and unpredictability make it difficult at best to show causation by the developer or user of the AI system [Lior 2020]. For example, Kaminski [2023] has written that “[w]hen an AI system causes harm, i
+
+Chunk 3
+Source: A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+Page: 7
+Chunking: document_structure
+Preview: decision surfaces, but also provably have bounded effects on, for example, variance in model-training outcomes. In short, ML can do work to tighten distributions, to provide theoretical limits on error (that then have to be met in practice), and to characterize rigorous 17For the indeterminacy thesi
+
+Chunk 4
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 11
+Chunking: document_structure
+Preview: [4] Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Katie Atkinson, Floris Bex, Filipe Borges, Daniele Bourcier, Paul Bourgine, Jack G. Conrad, Enrico Francesconi, Thomas F. Gordon, Guido Governatori, Jochen L. Leidner, David D. Lewis, Ronald P. Loui, L. Thorne McCarty, Henry Prakken, Frank S
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: document_structure
+Preview: For example, a judge on the San Francisco County Superior Court concluded that it will be difficult to apply traditional tort doctrines to autonomous robots [Karnow 2016]. Balkin [2015] similarly concluded that traditional liability would be a poor fit for self-learning systems because “[c]ode is la
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: How do the papers discuss uncertainty in applying existing law to AI or computational systems?
+
+Answer:
+
+The papers discuss uncertainty in applying existing law to AI or computational systems by citing Colin Doyle, Aaron D. Tucker, Michał Araszkiewicz, Kevin Ashley, Katie Atkinson, Floris Bourcier, Paul Bourgine, Jack G. Conrad, Enrico Francheschi, Thomas F. Gordon, Guido Governatori, Jochen L. Thorne McCarty, Henry Prakken, Frank Schilder, Erich Schweighofer, Paul Thompson, Alex Tyrrell, Bart Verheij, Douglas N. A History of AI and Law in 50 Papers: 25 Years of the International Conference on AI and Law, and Lior 2020. The papers discuss the potential problem of non-determinism and the lawlessness of machine learning code, and suggest that the law must find ways to address this issue. The papers also propose that the AI system itself can be used to aid in the design of law, for example, by providing fine-tuned tools that help lawyers be more efficient and effective in their work. The papers also highlight the need for legal scholarship to address the role of distributional outcomes in understanding how AI systems can cause harms.
+
+REFERENCES:
+
+[1] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 11
+Chunking: sentence
+Preview: arXiv:2204.05862 [cs.CL] https://arxiv.org/abs/2204.05862 [4] Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Katie Atkinson, Floris Bex, Filipe Borges, Daniele Bourcier, Paul Bourgine, Jack G. Conrad, Enrico Francesconi, Thomas F. Gordon, Guido Governatori, Jochen L. Thorne McCarty, Henry Pr
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: sentence
+Preview: As machines become more autonomous, the causation line is increasingly hazy. AI systems’ opacity and unpredictability make it difficult at best to show causation by the developer or user of the AI system [Lior 2020]. For example, Kaminski [2023] has written that “[w]hen an AI system causes harm, it 
+
+Chunk 3
+Source: A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+Page: 7
+Chunking: sentence
+Preview: 19Balkin developed this spin on the original refrain in relation to the problem of emergence and unpredictable, unintended consequences in robotic systems. We adopt it more broadly for non-deterministic code. 20It does, however, seem reasonable to draw the line that ML, if lawless, should not itself
+
+Chunk 4
+Source: A. Feder Cooper, Jonathan Frankle, Christopher De Sa, "Non-Determinism and the Lawlessness of Machine Learning Code," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550446.
+Page: 8
+Chunking: sentence
+Preview: Legal scholarship thus needs to attend to the role of distribu- tions over outcomes in order to fully appreciate how stochasticity contributes to uncertainty in the behavior of ML systems. As we have seen through brief examples concerning unfairness, uncer- tainty and non-determinism, not just indiv
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 6
+Chunking: sentence
+Preview: With other torts, courts and scholars have started to similarly conclude that existing law does not align with how AI functions. For example, a judge on the San Francisco County Superior Court concluded that it will be difficult to apply traditional tort doctrines to autonomous robots [Karnow 2016].
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: How do the papers discuss uncertainty in applying existing law to AI or computational systems?
+
+Answer:
+
+The papers discuss uncertainty in applying existing law to AI or computational systems by analyzing intentional behavior in autonomous agents under uncertainty. The sources cited are:
+
+[1] File: 3614407.3643697.pdf
+Page: 1
+Citation: Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+
+[2] File: 3709025.3712220.pdf
+Page: 11
+Citation: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+
+[3] File: 3511265.3550447.pdf
+Page: 2
+Citation: James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on
+
+REFERENCES:
+
+[1] Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+[2] Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+[3] James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+[4] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[5] Samuel Judson, Matthew Elacqua, Filip Cano, Timos Antonopoulos, Bettina Könighofer, Scott J. Shapiro, Ruzica Piskac, "'Put the Car on the Stand'," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643699.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, Nicoletta Fornara, "A Proxy for Assessing the Automatic Encodability of Regulation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643697.
+Page: 1
+Chunking: semantic
+Preview: Gallen simon.mayer@unisg.ch Aurelia Tamò-Larrieux Faculty of Law, Maastricht University a.tamo@maastrichtuniversity.nl Kimberly Garcia Institute of Computer Science, University of St. Gallen kimberly.garcia@unisg.ch Nicoletta Fornara Faculty of Communication, Culture and Society, Università della Sv
+
+Chunk 2
+Source: Colin Doyle, Aaron D. Tucker, "If You Give an LLM a Legal Practice Guide," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712220.
+Page: 11
+Chunking: semantic
+Preview: 2012. A History of AI and Law in 50 Papers: 25 Years of the International Conference on AI and Law. 20, 3 (2012), 215–319.
+
+Chunk 3
+Source: James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+Page: 2
+Chunking: semantic
+Preview: But I think it is telling that in so many cases the best way to solve a problem in AI and law has been to create a programming language.
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 13
+Chunking: semantic
+Preview: 2014. Machines Without Principles: Liability Rules and Artificial Intelligence. Washington Law Review 89 (2014), 117. Eugene Volokh.
+
+Chunk 5
+Source: Samuel Judson, Matthew Elacqua, Filip Cano, Timos Antonopoulos, Bettina Könighofer, Scott J. Shapiro, Ruzica Piskac, "'Put the Car on the Stand'," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643699.
+Page: 12
+Chunking: semantic
+Preview: 2023. Analyzing Intentional Behavior in Autonomous Agents under Uncertainty. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI-23 . 372–381.

@@ -1,0 +1,247 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What themes appear across the papers about law relying too heavily on technical solutions?
+
+Answer:
+
+The themes that appear across the papers about law relying too heavily on technical solutions are:
+
+1. Programming languages and law: The papers discuss the use of technical solutions in law, such as the use of computer science to analyze legal datasets in subjects as diverse as trademark infringement, criminal procedure, and national security law.
+
+2. Law as data: The papers discuss the use of computational methods like topic modeling and decision-tree learning to analyze legal datasets in criminal cases.
+
+3. Law and technology: The papers discuss the use of technology in law, such as the use of algorithms to inform court decisions and the introduction of formalizing human ingenuity, which involves using concepts and modeling principles from computer science to reason about law and policy questions.
+
+4. Common law legal systems: The papers discuss the evolution of common law legal systems, which are based on the principles of natural law and the common law, and the introduction of new technologies in society, such as the introduction of new technologies in society, such as the introduction of new technologies in society, such as artificial intelligence and machine learning.
+
+5. Legal education: The papers discuss the role of legal education in preparing lawyers to navigate the complexities of technology and the legal system.
+
+Overall, the papers highlight the need for a more comprehensive understanding of the relationship between law and technology, including the potential benefits and challenges of using technology in law.
+
+REFERENCES:
+
+[1] James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+[2] Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+[3] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[4] Jason D. Hartline, Daniel W. Linna, Liren Shan, Alex Tang, "Algorithmic Learning Foundations for Common Law," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550438.
+[5] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+Page: 1
+Chunking: fixed_size
+Preview: NY, USA, 11 pages. https://doi.org/10.1145/3511265.3550447 1 INTRODUCTION Computer science contains multitudes. It ranges from pure math- ematics to quantum physics, from the heights of theory to the depths of systems engineering. Some of its subfields speak to urgent problems law faces. Crim- inal 
+
+Chunk 2
+Source: Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+Page: 12
+Chunking: fixed_size
+Preview: of mere affidavits alone, without requiring additional disclosures about hidden investigative software that could enable the defense to test or impeach law enforcement claims. While law enforcement should ideally want to maximize transparency to the defense and subject itself to adversarial scrutiny
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: fixed_size
+Preview: coordinated but ineffective effort to bake technological  determinism and solutionism into the law —will result in an  impossible configuration. In essence, tech companies will be  required by law to design their systems for social outcomes  they cannot possibly control.   While proponents argue tha
+
+Chunk 4
+Source: Jason D. Hartline, Daniel W. Linna, Liren Shan, Alex Tang, "Algorithmic Learning Foundations for Common Law," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550438.
+Page: 1
+Chunking: fixed_size
+Preview: the information gained can be used to inform and improve the proceedings of future cases. However, when court costs exceed the individual benefits, there will be a failure of learning and inefficient legal outcomes will persist.1 In a common law legal system, the law evolves as courts decide cases. 
+
+Chunk 5
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 3
+Chunking: fixed_size
+Preview: Relationship to prior works. This works joins recent scholarship on using concepts and modeling principles from computer science to reason about law and policy questions in a new light [5, 16, 17, 33, 43, 68, 69, 81]. Other classes of CS and Law cross-disciplinary research include developing and dep
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What themes appear across the papers about law relying too heavily on technical solutions?
+
+Answer:
+
+Yes, the themes that appear across the papers about law relying too heavily on technical solutions are:
+
+1. Using zero-knowledge to reconcile law enforcement secrecy and fair trial rights in criminal cases.
+2. Demonstrating a POC of technological feasibility can support novel legal arguments even before adoption of a new technology.
+3. Common law courts can trigger a range of outcomes more or less likely than solving complex social issues through techno-deterministic visions.
+4. Programming languages and law can be applied to many problem domains, but law is not the kind of problem that can be solved by programming languages.
+
+The papers' focus on programming languages and law is particularly relevant to the history of law and program-ming languages' engagement, which has a long and impressive history of developing concepts, languages, and tools to tame the chaos of coding. The papers' emphasis on law and legal tech, which are engaged in solving complex legal issues, highlights the importance of PL theory in addressing legal problems.
+
+REFERENCES:
+
+[1] Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+[2] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[3] James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+[4] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+Page: 6
+Chunking: document_structure
+Preview: law enforcement into dropping justified charges when no wrongful government conduct has occurred since filing a frivolous discovery motion with the motive to compel dismissal will no longer be an effective litigation strategy. See Subsection 4.1 for more discussion. From a more conceptual perspectiv
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: document_structure
+Preview: social change while triggering a range of other outcomes  [Morozov 2013; Sætra 2023; Selbst et al. 2019] . However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is 
+
+Chunk 3
+Source: James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+Page: 1
+Chunking: document_structure
+Preview: perspectives on law. The “law as data” movement [9, 75] uses com- putational methods like topic modeling and decision-tree learning to analyze legal datasets in subjects as diverse as trademark in- fringement, [17] judicial rhetoric, [74] and the network structure of the United States Code. [59] Thi
+
+Chunk 4
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 3
+Chunking: document_structure
+Preview: human behavior: law, social norms, markets , and code  [17].  Lessig’s model thus added algorithms to the forces governing  human behavior, coining the phrase “code is law” [17]. Since then,  there has been  a stable stream of legal scholarship aim ed at  refining our understanding of the mutual rel
+
+Chunk 5
+Source: James Grimmelmann, "Programming Languages and Law: A Research Agenda," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550447.
+Page: 9
+Chunking: document_structure
+Preview: And programming-language techniques can usefully be applied to many problem domains, but law happens to be particularly rich in the kind of problems for which programming-linguistic solutions can be useful. Historians and sociologists have their own interest- ing and important problems, but by and l
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What themes appear across the papers about law relying too heavily on technical solutions?
+
+Answer:
+
+Based on the provided sources, the themes that appear across the papers about law relying too heavily on technical solutions include:
+
+1. Technological fix: The papers argue that code is law, and that technological solutions can act as a proxy for law in dictating futures.
+
+2. Technical-first analysis: The papers reconcile differing accounts of two works by introducing a formal framework that turns technical-first analysis into a formalism.
+
+3. Demonstrability and entailability: The papers introduce concepts of demonstrability and entailability, which describe how the design of software can be used to demonstrate the legal implications of its use.
+
+4. Algorithmic learning foundations: The papers introduce the concept of algorithmic learning foundations for common law, which describes how algorithms can be used to understand and predict legal outcomes.
+
+5. Compellability of cryptosystems: The papers introduce a formal framework for understanding how the compellability of different cryptosystems under a legal framework.
+
+Overall, the papers suggest conceptual modeling in law to answer normative questions, and describe how technical-first analysis can be used to understand the legal implications of technology.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[2] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+[3] Jason D. Hartline, Daniel W. Linna, Liren Shan, Alex Tang, "Algorithmic Learning Foundations for Common Law," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550438.
+[4] Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: sentence
+Preview: Such efforts repeatedly  stumble against the flaws and limitations of these theories of  social change while triggering a range of other outcomes  [Morozov 2013; Sætra 2023; Selbst et al. However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOS
+
+Chunk 2
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 3
+Chunking: sentence
+Preview: Their findings were that “PbD seems  an intuitive and sensible policy tool for lawyers; however, for  information systems developers and engineers, it is anything but  intuitive as it goes against the grain of several well -established  principles of in formation systems engineering” [4]. Their arti
+
+Chunk 3
+Source: Jason D. Hartline, Daniel W. Linna, Liren Shan, Alex Tang, "Algorithmic Learning Foundations for Common Law," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550438.
+Page: 9
+Chunking: sentence
+Preview: International Review of Law and Economics 48 (2016), 59–76. [13] Daniel W Linna Jr. The Future of Law and Computational Technologies: Two Sides of the Same Coin. MIT Computational Law Report (2019). [14] Michael A Livermore. InComputational Legal Studies.
+
+Chunk 4
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 12
+Chunking: sentence
+Preview: Next, SS and MV produced a technical-first analysis inspired by the law; they gave a more restricted simulation-based formal framework and analyzed how the compellability of different cryp- tosystems under it [32]. All three authors then worked to reconcile the differing accounts of those two works,
+
+Chunk 5
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 3
+Chunking: sentence
+Preview: Lessig’s model thus added algorithms to the forces governing  human behavior, coining the phrase “code is law” [17]. Since then,  there has been  a stable stream of legal scholarship aim ed at  refining our understanding of the mutual relations  between  technology and human behavior. Our approach p
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What themes appear across the papers about law relying too heavily on technical solutions?
+
+Answer:
+
+Sure, here are the answers to the questions using the sources provided:
+
+1. What themes appear across the papers about law relying too heavily on technical solutions?
+
+The papers about law relying too heavily on technical solutions all focus on the use of new technologies, such as artificial intelligence (AI), machine learning (ML), and blockchain, to solve legal problems. The papers also discuss the potential benefits and drawbacks of these technologies, such as their potential to improve efficiency, reduce costs, and enhance transparency. However, the papers also highlight the challenges and limitations of using these technologies in legal contexts, such as the need for legal oversight and the potential for unintended consequences.
+
+2. What themes do the papers about law relying too heavily on technical solutions share?
+
+The papers about law relying too heavily on technical solutions all share the following themes:
+
+- The use of new technologies to solve legal problems
+- The potential benefits and drawbacks of these technologies
+- The need for legal oversight and the potential for unintended consequences
+- The challenges and limitations of using these technologies in legal contexts
+
+3. What themes do the papers about legal relying too heavily on technical solutions share?
+
+The papers about legal relying too heavily on technical solutions all share the following themes:
+
+- The need for legal oversight and the potential for unintended consequences
+- The challenges and limitations of using these technologies in legal contexts
+- The potential benefits and drawbacks of these technologies
+
+4. What themes do the
+
+REFERENCES:
+
+[1] Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+[2] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+[3] Kristof Meding, Christoph Sorge, "What constitutes a Deep Fake? The blurry line between legitimate processing and manipulation under the EU AI Act," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712218.
+[5] Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+Page: 6
+Chunking: semantic
+Preview: From a more conceptual perspective, we observe a mode of interaction between CS research and law. We propose that demon- strating a POC of technological feasibility can support novel legal arguments even before adoption of a new technology. Specifically, feasibility alone may lead some courts to dec
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 7
+Chunking: semantic
+Preview: However, the  fact that a technological fix has been baked into a duty of care,  such as the one included in KOSA's Section 3, makes matters  even worse. When Lessig first argued that “code is law,” he  intended to signal how the design of software plays a  regulating role in making certain outcomes
+
+Chunk 3
+Source: Kristof Meding, Christoph Sorge, "What constitutes a Deep Fake? The blurry line between legitimate processing and manipulation under the EU AI Act," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712218.
+Page: 7
+Chunking: semantic
+Preview: law gives the competent authorities and courts enough leeway to find sensible solutions for individual cases.
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 4
+Chunking: semantic
+Preview: Meanwhile, legal  scholars started turning to design as a site of potential  intervention. In building a framework for “lex informatica,”  Joel Reidenberg argued that design choices impose rules on  technical systems that can be just as effective as legal  requirements [Reidenberg 1998] .
+
+Chunk 5
+Source: Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, Wolfgang Schulz, "Toward Architecture-Driven Interdisciplinary Research," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550451.
+Page: 2
+Chunking: semantic
+Preview: Finally, we draw a conclusion by reflecting on our  approach and findings. 2 RELATED RESEARCH   Scholars have already argued that bridging the gap between  legal and technological approaches is necessary when measuring  the su fficiency of new technological tools in satisfying legal  requirements [2

@@ -1,0 +1,189 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Do the retrieved papers prove that LLMs can detect copyright infringement in real time?
+
+Answer:
+
+The retrieved papers do not prove that LLMs can detect copyright infringement in real time. The sources cited only provide citations for articles that discuss the issue of copyright infringement in real time. The papers do not directly address the question of whether LLMs can detect copyright infringement in real time. The question is not answered in the given sources.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[5] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could result in a prima facie infringement claim. While some of the millions of works on which these 
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew to have, whereas actual knowledge is the knowledge that one does have. Once companies have actual knowledge of an infringement, they are no longer protected under the safe harbor [Fitts 2006]. Lee et al. [2023] discusses how the visibility that hosts
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: fixed_size
+Preview: an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is in keeping with the constitutional basis for copyright law, which emphasizes both technological and scientific progress alongside authori
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 10
+Chunking: fixed_size
+Preview: surface-level matches but not so broad as to be proscriptively overinclusive of fair uses and other noninfringing outputs [Henderson et al. 2023b]. Indeed, in devising the DMCA system, Congress expressly did not require service providers to engage in proactive activities such as filtering for this r
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: fixed_size
+Preview: which can be relevant to infringement analysis. It also bears on the ease with which specific material can be located, and if necessary removed, from a dataset. However, the use of web-scraping to col- lect generative-AI training datasets makes provenance difficult to track [Lee et al. 2023]. Even i
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Do the retrieved papers prove that LLMs can detect copyright infringement in real time?
+
+Answer:
+
+The retrieved papers do not prove that LLMs can detect copyright infringement in real-time. The sources cited only provide citations for articles and papers that discuss the legal implications of using LLMs for copyright detection. The papers do not provide specific examples of how LLMs have been used to detect copyright infringement in real-time. The papers also do not address the issue of fair use or other non-infringement arguments that could be raised in court. The papers do not provide any evidence that training datasets are copyrighted or that metadata on provenance can be used to locate specific material from a dataset. The papers do not address the issue of the meaning of copyright law or the potential ramifications of pre-training paradigms for AI development. Overall, the retrieved papers do not provide a comprehensive analysis of the legal implications of using LLMs for copyright detection.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[5] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: . Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. 2005. 545 U.S. 913 (2005). Paul B. Miller. 2021. Corporate Personality, Purpose, and Liability. In Research Handbook on Corporate Purpose and Personhood, Elizabeth Pollman and Robert B. Thompson (Eds.). Elgar, 222–39. Christina Mulligan. 2018. Rev
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could result in a prima facie infringement claim. While some of the millions of works on which these 
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: document_structure
+Preview: a whole constitutes an original work of authorship” [Copyright Law of the United States 2010a]. Thus, training datasets can them- selves be copyrighted; copying of the dataset as a whole without permission could constitute infringement, separate and apart from infringement on the underlying works.11
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: document_structure
+Preview: the meaning of copyright law; otherwise, it would not be available as training data at all. A very small fraction of training data may be “unpublished” within the meaning of copyright law — i.e., it has been shared “(1) . . . only to a select group (2) for a limited purpose and (3) with no right of 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: document_structure
+Preview: should open these design decisions up. Core to both Picker [2004]’s suggestion and ours is that, rather than subjecting a technology to an all-or-nothing one-time evaluation, judicial tests and policies can provide incentives for ongoing technological innovations that prevent infringement. This is i
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Do the retrieved papers prove that LLMs can detect copyright infringement in real time?
+
+Answer:
+
+The retrieved papers do not prove that LLMs can detect copyright infringement in real time. The sources cited do not directly address this question, and the papers do not provide any evidence that LLMs can detect copyright infringement in real time. The papers only discuss the potential for LLMs to detect copyright infringement in the future, and the authors do not provide any concrete evidence or examples of how LLMs can detect copyright infringement in real time. Therefore, the answer to the question is no.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[4] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. 508 F.3d 1146 (9th Cir. 847 F.3d 657 (9th Cir. Petroleos Mexicanos Refinacion v. Nicholson Price II and I.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: sentence
+Preview: Revenge Against Robots. South Carolina Law Review 69 (2018), 579. Volition in Violation of Copyright. Columbia Journal of Law and the Arts 43 (2019), 1. CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher.
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: sentence
+Preview: As part of training duties for ML systems, it is important to look into what datasets contain and how they are labeled. And, perhaps, beyond an understanding of what is ingested, how copyrighted works are ingested as part of the training process to influence resulting system applications and outputs
+
+Chunk 4
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: sentence
+Preview: a reevaluation of assessing substantial similarity in a copyright infringement case. Journal of Law and Policy, 15, 2007. United States, 354 U.S. [76] Pamela Samuelson. A fresh look at tests for nonliteral copyright infringement. Northwestern University Law Review, 107:1821, 2013.
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: The first question of the analysis is input-side fair use, whether training a generative AI  model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could re
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Do the retrieved papers prove that LLMs can detect copyright infringement in real time?
+
+Answer:
+
+The retrieved papers do not prove that LLMs can detect copyright infringement in real time. The sources cited do not contain enough information to support this claim. The papers only provide examples of how LLMs can detect copyright infringement in the context of pre-training AI development, and do not directly address the issue of detecting copyright infringement in real time. The papers also do not provide any evidence that LLMs can accurately detect copyright infringement in real time, and instead focus on the potential benefits of using LLMs for copyright infringement detection.
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+[4] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[5] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2024. CopyrightCatcher, the First Copyright Detection API for LLMs. https://www.patronus.ai/blog/introducing-copyright-catcher. Perfect 10, Inc.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 3
+Chunking: semantic
+Preview: Artificial Infringement (Short Version) CS&Law ’25, March 25–27, Munich, Germany      [Marchisio 2021]. Many scholars and studies recognize that at least a portion of outputs may be substantially similar to copyrighted works but not fall within the confines of the fair use doctrine [Lemley & Casey 2
+
+Chunk 3
+Source: Sarah Scheffler, Eran Tromer, Mayank Varia, "Formalizing Human Ingenuity: A Quantitative Framework for Copyright Law's Substantial Similarity," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550444.
+Page: 13
+Chunking: semantic
+Preview: Do we even need a test? a reevaluation of assessing substantial similarity in a copyright infringement case. Journal of Law and Policy, 15, 2007.
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 6
+Chunking: semantic
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew to have, whereas actual knowledge is the knowledge that one does have. Once companies have actual knowledge of an infringement, they are no longer protected under the safe harbor [Fitts 2006].
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 15
+Chunking: semantic
+Preview: [2023b]. 61 Alert readers will note the similarity to the debate over whether the mere act of making a work available without a download infringes the distribution right. See London-Sire Records, Inc.

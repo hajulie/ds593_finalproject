@@ -1,0 +1,196 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Answer using only the retrieved sources: what evidence supports the claim that copyright law struggles with AI training data?
+
+Answer:
+
+Based on the provided sources, the evidence supports the claim that copyright law struggles with AI training data. The sources cited include Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208, and Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696, and A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+The sources also provide evidence that some training data may be informational, expressive, or transformative, and that generative AI systems are likely to rely on uncopyrightable parts of copyrighted works, such as underlying facts or grammatical structures. The sources also argue that some models on copyrighted works infringe on reproduction or derivative works rights, and that the question of input infringement is a prima facie infringement
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[5] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 8
+Chunking: fixed_size
+Preview: and to noncommercial use (e.g., illustrating an academic article on generative AI). Some outputs will be put to favored purposes like education and news reporting, while other outputs will be put to run-of-the-mill entertainment purposes.75 Factor Two (“the nature of the copyrighted work” [Copyright
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: Lemley and Casey [2021], Levendowski [2018], Sag [2023], and Samuelson [2024] argue that training an AI system on copyrighted content is likely transformative. These arguments place generative AI inside a long line of functionally transformative devices and systems that courts have deemed to be fair
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: fixed_size
+Preview: model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could result in a prima facie infringement claim. While some of the millions of works on which these 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development Rui-Jie Yew Brown University Massachusetts Institute of Technology USA rui-jie_yew@brown.edu ABSTRACT This paper considers the potential impacts of a pre-training regi
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Answer using only the retrieved sources: what evidence supports the claim that copyright law struggles with AI training data?
+
+Answer:
+
+Yes, the provided sources only provide citations for the retrieved documents. The sources are:
+
+1. Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+2. Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+3. Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+4. Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/37090
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: document_structure
+Preview: 6 CONCLUSION AND AI POLICY IMPLICATIONS Simply scraping an image or building a technical system that cre- ates an output that draws from a copyrighted work might not automatically trigger copyright infringement 11. Rather, it is the causal process of copying between these events that gives rise to p
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 7
+Chunking: document_structure
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA to the inherent technical functionality of ML systems. ML systems could present a challenge to legal frameworks for analy
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: document_structure
+Preview: model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could result in a prima facie infringement claim. While some of the millions of works on which these 
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 3
+Chunking: document_structure
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA Figure 1: (a): This is a representation of the conceptualization of training in proposed analyses for AI systems in the l
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Answer using only the retrieved sources: what evidence supports the claim that copyright law struggles with AI training data?
+
+Answer:
+
+Based on the provided sources, the evidence supports the claim that copyright law struggles with AI training data. The sources cited include Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208, and Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2024, doi: 10.1145/3614407.3643707, and Rui-Jie Yew's "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+The first question of the analysis is input-side fair use, whether training a generative AI model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could result in a prima facie infringement claim. Several sch
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[3] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: The first question of the analysis is input-side fair use, whether training a generative AI  model on copyrighted works infringes the reproduction or derivative works right—or is a lawful fair use. During the training process, temporary or incidental copies of the data may be created, which could re
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: Reported eu legislation to disclose ai training data could trigger copy- right lawsuits. https://www.theverge.com/2023/4/28/23702437/eu-ai-act-disclose- copyright-training-data-report, 2022. Musicbert: Symbolic music understanding with large-scale pre-training. arXiv preprint arXiv:2106.05630, 2021.
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: sentence
+Preview: So far, scholars and litigants have largely restricted themselves to examining the first two questions, largely focused on fair use. Fair use is a statutory exception to copyright infringement for certain socially-beneficial uses such as criticism, education, and other transformative purposes. Court
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: The gradient of generative ai release: Methods and considerations. In Pro- ceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency , pages 111–122, 2023. , 508 F.3d 1146 (9th Cir., 2007). Universal City Studios, Inc. Reported eu legislation to disclose ai training data coul
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Answer using only the retrieved sources: what evidence supports the claim that copyright law struggles with AI training data?
+
+Answer:
+
+Based on the provided sources, the evidence supports the claim that copyright law struggles with AI training data. The sources cited include Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208, and Rui-Jie Yew's "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707, and Michael P. Goodyear's "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+The sources cited demonstrate that using copyrighted works for AI systems' training data is a permitted fair use under copyright law. However, there are at least two opportunities for copyright infringement and fair use defense with generative AI: at the input (training) stage and at the output stage. The first question posed in the sources is whether training A
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: Vincent. Reported eu legislation to disclose ai training data could trigger copy- right lawsuits. https://www.theverge.com/2023/4/28/23702437/eu-ai-act-disclose- copyright-training-data-report, 2022. M.
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: 2015]. Alternatively, Oren Bracha [2023] argues that AI training relies on the uncopyrightable parts of copyrighted works, such as their underlying facts or grammatical structure, and therefore should not implicate copyright law. While these input-side fair use and non-infringement arguments are per
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 2
+Chunking: semantic
+Preview: So far, scholars and litigants have largely restricted themselves to examining the first two questions, largely focused on fair use. Fair use is a statutory exception to copyright infringement for certain socially-beneficial uses such as criticism, education, and other transformative purposes. Court
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: Res. L. Rev., 55:749, 2004. B. Popper. YouTube to the music industry: here’s the money - The Verge, 2016. URL https://www.theverge.com/2016/7/13/12165194/youtube-content-id-2-billion- paid. J. Quang. Does training ai violate copyright law? Berkeley Tech. LJ, 36:1407, 2021. A. Ramesh, P. Dhariwal, A.

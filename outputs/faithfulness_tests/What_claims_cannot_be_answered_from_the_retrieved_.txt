@@ -1,0 +1,226 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: What claims cannot be answered from the retrieved chunks, even if they seem related to the question?
+
+Answer:
+
+Both retrieved chunks and downstream question-answering cannot be answered from the retrieved chunks, even if they seem related to the question. The sources provided do not stop mid-sentence. The question is "What claims cannot be answered from the retrieved chunks, even if they seem related to the question?" The answer is "Both retrieved chunks and downstream question-answering cannot be answered from the retrieved chunks, even if they seem related to the question."
+
+REFERENCES:
+
+[1] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[3] Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 2
+Chunking: fixed_size
+Preview: both retrieval and downstream question-answering. In contrast, 1The ECtHR-PCR dataset [36] is an exception. The authors leverage additional case document structure to separate facts from the argument in the citing case context when constructing queries. 170
+
+Chunk 2
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 17
+Chunking: fixed_size
+Preview: private fact. Public Record: Matters of public record, such as birth date, military service records, and others, are exempted. The defendant may claim this defense by showing that the disclosed fact was actually a matter of public record. However, it should be noted that, unlike defamation actions, 
+
+Chunk 3
+Source: Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+Page: 4
+Chunking: fixed_size
+Preview: fully applied to retrieve sensitive data from a practical commercial system that was designed to satisfy the GDPR’s anonymization requirements [14]. These and other similar findings led Dwork and Roth to articulate the Fundamental Law of Information Recovery : “[O]verly accurate answers to too many 
+
+Chunk 4
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: fixed_size
+Preview: the relevant document requires multi-hop or analogical rea- soning. In practice this setting is ubiquitous. Producing the legal cases relevant to a client’s factual circumstances, for instance, requires extracting higher-order legal issues and identifying other cases which present those issues—even 
+
+Chunk 5
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 4
+Chunking: fixed_size
+Preview: passages restates or closely restates a significant portion of the question and the answer is, by construction, a substring of the gold passage. Therefore, the relationship between the question, gold passage, and answer for such tasks can often be recovered by comparing lexical similarities of the t
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: What claims cannot be answered from the retrieved chunks, even if they seem related to the question?
+
+Answer:
+
+Based on the provided sources, the following claims cannot be answered from the retrieved chunks:
+
+1. Can the Government Compel Decryption?
+
+Sources:
+
+[1]
+File: 3511265.3550441.pdf
+Page: 11
+Citation: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+
+Text:
+18, 45, 46, 49]. As a general rule of thumb that we expect to hold for many realistic fact patterns, an action that is a foregone conclusion under [32] is likely entailable in our current framework. A notable exception is the inability for our current framework to entail ran-dom sampling from a probability distribution (Theorem A.2). That being said, the two works differ in several legal and computer science aspects.
+
+2. Entailment and partial specifications
+
+The ability for evidence to partially-specify functionalities in N poses a major difficulty for proving entailment in many cases.
+
+Sources:
+
+[2]
+File: 3709025.3712211.pdf
+Page: 4
+Citation: Ayelet Gordon-Tapiero, Katrina
+
+REFERENCES:
+
+[1] Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+[2] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[5] Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 11
+Chunking: document_structure
+Preview: 18, 45, 46, 49]. As a general rule of thumb that we expect to hold for many realistic fact patterns, an action that is a foregone conclusion under [32] is likely entailable in our current framework. A notable exception is the inability for our current framework to entail ran- dom sampling from a pro
+
+Chunk 2
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: document_structure
+Preview: legal cases relevant to a client’s factual circumstances, for instance, requires extracting higher-order legal issues and identifying other cases which present those issues—even if the specific factual descriptions are quite different. (2) Second, existing benchmarks are often exclusively retrieval 
+
+Chunk 3
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 17
+Chunking: document_structure
+Preview: However, it should be noted that, unlike defamation actions, truth is no defense to a claim for public disclosure of private facts. This means that a defendant cannot refute a claim by showing that the disclosed fact was actually true or accurate. Table 16: Example of query expansions with different
+
+Chunk 4
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 8
+Chunking: document_structure
+Preview: rely on any computational limitations on the part of the government— only the information-theoretic uncertainty of the true value of R.𝑧. 5.2 Entailment and partial specifications The ability for evidence to partially-specify functionalities in N poses a major difficulty for proving entailment in ma
+
+Chunk 5
+Source: Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+Page: 4
+Chunking: document_structure
+Preview: CSLAW ’25, March 25–27, 2025, München, Germany Ayelet Gordon-Tapiero, Katrina Ligett, and Kobbi Nissim (approximate) number of those in the subset who have the sensi- tive trait. Such queries are the fundamental bread and butter of statistical analysis and machine learning. Dinur and Nissim proved t
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: What claims cannot be answered from the retrieved chunks, even if they seem related to the question?
+
+Answer:
+
+Based on the sources provided, the question cannot be answered from the retrieved chunks, even if they seem related to the question. The sources do not provide enough information to answer the question. The claim is based on circumstantial evidence, as the datasets it was trained on have not been made public, and the original download URL for The Pile (https://the-eye.eu/public/AI/pile/) is no longer resolving. The original download URL for The Pile (https://the-eye.eu/public/AI/pile/) is not mentioned in the sources provided. The number of those in the subset who have the sensitive trait is not mentioned in the sources provided. The second split (knowledge_qa) is not mentioned in the sources provided. The retrieval passage pool contains ~2M passages, but the relationship between the question, gold passage, and answer for such tasks is not mentioned in the sources provided. The legal cases relevant to a client's factual circumstances are not mentioned in the sources provided. The benchmarks rely on query-document distributions extracted from datasets built for other purposes, and the sources do not provide information on the query-document distributions used in the benchmarks. The sources do not provide information on the downstream impacts of improvements in retrievers.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+[3] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[5] Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 13
+Chunking: sentence
+Preview: 34] But this claim is based on circumstantial evidence, because the datasets it was trained on have not been made public. Text from books have been a key player in other dataset-related complaints. For example, The Pile data was originally released under the MIT license [Biderman et al. The Pile was
+
+Chunk 2
+Source: Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+Page: 4
+Chunking: sentence
+Preview: CSLAW ’25, March 25–27, 2025, München, Germany Ayelet Gordon-Tapiero, Katrina Ligett, and Kobbi Nissim (approximate) number of those in the subset who have the sensi- tive trait. Such queries are the fundamental bread and butter of statistical analysis and machine learning. Dinur and Nissim proved t
+
+Chunk 3
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 4
+Chunking: sentence
+Preview: The second split (knowledge_qa) is larger (9,297 examples), and contains question-answer pairs for which we could not identify a labeled supporting statute. While the lack of a statute annotation prevents these questions being used for retrieval evaluation, we believe they may be of independent inte
+
+Chunk 4
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: sentence
+Preview: In practice this setting is ubiquitous. Producing the legal cases relevant to a client’s factual circumstances, for instance, requires extracting higher-order legal issues and identifying other cases which present those issues—even if the specific factual descriptions are quite different. (2) Second
+
+Chunk 5
+Source: Dor Bitan, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, "Using Zero-Knowledge to Reconcile Law Enforcement Secrecy and Fair Trial Rights in Criminal Cases," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550452.
+Page: 4
+Chunking: sentence
+Preview: ” First, assertion 1 is not well-defined, since it is not clear which software the assertion considers for vulnerabilities. Second, assertion 2 is also not well-defined, because what constitutes “misuse” and what constitutes something that a software was “intended to do” could be litigated in differ
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: What claims cannot be answered from the retrieved chunks, even if they seem related to the question?
+
+Answer:
+
+The answer to the question is:
+
+The claims cannot be answered from the retrieved chunks, even if they seem related to the question.
+
+The sources cited in the text are:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+[2023, p. 34] But this claim is based on circumstantial evidence, because the datasets it was trained on have not been made public. Text from books have been a key player in other dataset-related complaints. For example, The Pile data was originally released under the MIT license [Biderman et al. 2022]. The Pile was core to the complaint in Kadrey v. Meta Platforms, Inc. [2023], since the Pile claimed to contain 108GB of the dataset Books3 (which itself contains content from Bibliotek, a popular torrent interface). The original download URL for The Pile (https://the-ey.eu/public/AI/pile/) is no longer resolving (as of September 2023).
+
+[2] File: 3511265.3550441.pdf
+
+Page: 12
+
+Citation: Aloni Cohen, Sarah Scheffler,
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+[4] Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+[5] Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 13
+Chunking: semantic
+Preview: [2023, p. 34] But this claim is based on circumstantial evidence, because the datasets it was trained on have not been made public. Text from books have been a key player in other dataset-related complaints. For example, The Pile data was originally released under the MIT license [Biderman et al. 20
+
+Chunk 2
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 9
+Chunking: semantic
+Preview: Can the Government Compel Decryption? Don’t Trust — Verify CSLAW ’22, November 1–2, 2022, Washington, DC, USA Device 𝐷read: Variables: m Method read() return m Target Tread: return N [DLoc].read() Evidence Eread: Data: DLoc Oracle: N [DLoc] assert: 𝐷read ≼ N [DLoc] Device 𝐷readWrite: Variables: m Me
+
+Chunk 3
+Source: Aloni Cohen, Sarah Scheffler, Mayank Varia, "Can the Government Compel Decryption?," Proceedings of the 2022 Symposium on Computer Science and Law, ACM, 2022, doi: 10.1145/3511265.3550441.
+Page: 12
+Chunking: semantic
+Preview: CSLAW ’22, November 1–2, 2022, Washington, DC, USA Aloni Cohen, Sarah Scheffler, and Mayank Varia is not “relying on the truthtelling” [ 13, l. 411]. In contrast, [ 32] requires the government to specify how it could have performed the respondent’s act using the cryptographic idea of simulation but 
+
+Chunk 4
+Source: Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher D. Manning, Peter Henderson, Daniel E. Ho, "A Reasoning-Focused Legal Retrieval Benchmark," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712219.
+Page: 1
+Chunking: semantic
+Preview: In practice this setting is ubiquitous. Producing the legal cases relevant to a client’s factual circumstances, for instance, requires extracting higher-order legal issues and identifying other cases which present those issues—even if the specific factual descriptions are quite different. (2) Second
+
+Chunk 5
+Source: Ayelet Gordon-Tapiero, Katrina Ligett, Kobbi Nissim, "On the Rival Nature of Data: Tech and Policy Implications," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712211.
+Page: 4
+Chunking: semantic
+Preview: Such queries are the fundamental bread and butter of statistical analysis and machine learning. Dinur and Nissim proved that even if answered with significant noise, answering many such statistical queries inevitably leads to accurate recovery of the underlying sensitive data [ 19], a result which w

@@ -1,0 +1,223 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Answer:
+
+Based on the provided sources, the question is answered using only the sources below.
+
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Sources:
+
+[1]
+File: 3614407.3643707.pdf
+Page: 8
+Citation: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+Text:
+which increasingly shapes the basis of ML development, may play a central role [Langenkamp and Yue 2022]. Standards-setting through governmental bodies, such as the National Institute of Standards and Technology and the Federal Trade Commission, is another way that regulators can shape the incentives that determine AI development.
+
+Finally, copyright law is by no means a panacea for regulating AI development and deployment or for protecting artists in that process. The burden of proof currently falls on artists to discover works that might have infringed on theirs and to bring an action. The resource-intensive process could dissuade many lawsuits from being brought in the first place.
+
+Sources:
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[4] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: fixed_size
+Preview: which increasingly shapes the basis of ML development, may play a central role [Langenkamp and Yue 2022]. Standards-setting through governmental bodies, such as the National Institute of Standards and Technology and the Federal Trade Commission, is another way that regulators can shape the incentive
+
+Chunk 2
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: fixed_size
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+Chunk 3
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: fixed_size
+Preview: may manage or attempt to limit their copyright liability in practice. Based on this analysis, I conclude with a discussion of strategies to close these loopholes and of the role that copyright law has to play within the AI policy landscape. CCS CONCEPTS •Social and professional topics → Secondary li
+
+Chunk 4
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: fixed_size
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 7
+Chunking: fixed_size
+Preview: content, not the developer or user. The Copyright Office has determined that AI-generated content should not be copyrightable where the AI system, not a human, is generating the
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Answer:
+
+Based on the sources provided, the question is: "According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?"
+
+The answer is: According to the sources provided, indirect copyright liability litigation for technologies in the past have to say for how AI companies may manage or attempt to limit their copyright liability in practice. The main contribution of this paper lies in its analysis of what indirect copyright liability litigation for technologies in the past have to say for how AI companies may manage or attempt to limit their copyright liability in practice.
+
+The sources provided do not provide a clear answer to the question, as they do not specifically address the issue of indirect copyright liability litigation for technologies in the past. However, the analysis provided in the paper suggests that indirect copyright liability litigation for technologies in the past may not be a complete solution for regulating AI development, as it does not address the harm that does not stem from the existence of AI technologies.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[4] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 1
+Chunking: document_structure
+Preview: then subsequently specialized toward specific ones. Thus, I con- sider copyright’s indirect liability doctrine to consider the effect of copyright on the current market structures involved in the develop- ment and deployment of AI systems. The main contribution of this paper lies in its analysis of 
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: document_structure
+Preview: Joshua A. Kroll et al. 2017. Accountable Algorithms. University of Pennsylvania Law Review 165 (2017), 633. Katherine Lee, A. Feder Cooper, and James Grimmelmann. 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming. Ti
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: document_structure
+Preview: CSLAW ’24, March 12–13, 2024, Boston, MA, USA Yew I conclude with a few remarks on the limitations of our analysis and on implications for AI policy as a whole. The judicial applica- tion of copyright law does not have to be all-or-nothing –injunction or the status quo. Ginsburg [2001] notes that “t
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Answer:
+
+Based on the sources provided, the question is answered using only the sources below.
+
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Sources:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+Text:
+ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ training data is a permitted fair use [Sag 2023] [Henderson et al. 2023b] [Samuelson 2023] [Lee et al. 2025] 
+
+
+---
+
+
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[4] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: Yet even if training an AI system on copyrighted works is permitted under copyright law, there is still the question of who should be liable when a generative AI system creates an infringing output. Even the staunchest advocates of fair use have admitted that in at least a few cases, some outputs wo
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 7
+Chunking: sentence
+Preview: A district court upheld this rule, noting the unpredictability of generative AI systems’ outputs versus those of cameras, which generate mechanical reproductions “only after the photographer develops a ‘mental conception’ of the photograph” [Thaler v. Unlike cameras, the user (and programmer) do not
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: They are heavily influenced by organizational efforts and informal standards setting [Menell 2012]. There are multiple policy avenues–standards setting, private ordering–through which technological innovation in preventing infringement can be moved. To solidify and develop these duties and standards
+
+Chunk 5
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 8
+Chunking: sentence
+Preview: Finally, copyright law is by no means a panacea for regulating AI development and deployment or for protecting artists in that process. The burden of proof currently falls on artists to discover works that might have infringed on theirs and to bring an action. The resource-intensive process could di
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+Answer:
+
+According to Break It 'Til You Make It, why is copyright law not a complete solution for regulating AI development?
+
+The answer is that copyright law is not a complete solution for regulating AI development because it does not address the complex legal issues that arise when generative AI systems train on copyrighted works. Copyright law is notoriously complicated, and generative-AI systems manage to touch on a great many corners of it. These systems raise issues of author-ship, similarity, direct and indirect liability, and fair use, among many other legal issues. Therefore, copyright law is not a complete solution for regulating AI development.
+
+REFERENCES:
+
+[1] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[5] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: Break It ‘Til You Make It An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development CSLAW ’24, March 12–13, 2024, Boston, MA, USA Conference on AI, Ethics, and Society , pages 363–374, 2023. M.
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+Chunk 3
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: semantic
+Preview: Over three dozen pending U.S. court cases grapple with this question of whether the training of generative AI systems on copyrighted works is lawful or infringement. Yet even if training an AI system on copyrighted works is permitted under copyright law, there is still the question of who should be 
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: semantic
+Preview: Levendowski. How copyright law can fix artificial intelligence’s implicit bias problem. Wash.
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: semantic
+Preview: These systems behave differently and raise different legal issues. Second, copyright law is notoriously complicated, and generative-AI systems manage to touch on a great many corners of it. They raise issues of author- ship, similarity, direct and indirect liability, and fair use, among much else.

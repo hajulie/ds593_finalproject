@@ -1,0 +1,196 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: According to Talkin' 'Bout AI Generation, what copyright issues do the authors say they address, and which issues do they defer to other work?
+
+Answer:
+
+Based on the sources provided, the authors argue that copyright issues do not defer to other work when dealing with generative-AI systems. The authors also state that copyright is not a silver bullet, and courts should be wary of metaphors that provide too-easy answers to the genuinely hard problems of copyright law. The authors also discuss the potential damages for copyright infringement, including billions of dollars, and the need for caution when dealing with generative-AI systems. The authors conclude that copyright pervades the generative-AI supply chain and that courts should beware of metaphors that provide too-easy answers to the genuinely hard problems of copyright law.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[5] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: fixed_size
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, 2023, S. 6.31] — and included through express breach of confidence. Here, this factor will favor the plaintiff. Factor Three (“the amount a
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: fixed_size
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: fixed_size
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* actor, and when infringement may occur, and discuss how the choices made by actors at one point in the supply chain affect the copyright risks faced by others (Section 3). • Detail broader lessons, inclu
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: fixed_size
+Preview: The Journal of the Copyright Society. 1 INTRODUCTION Generative-AI systems like ChatGPT, Bard, DALL·E, and Ideogram can turn a user-supplied prompt like"give three arguments why marbury v. madison was wrongly decided" into a persuasive essay, or "a cowboy riding a rocket ship" into a work of digital
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 7
+Chunking: fixed_size
+Preview: content, not the developer or user. The Copyright Office has determined that AI-generated content should not be copyrightable where the AI system, not a human, is generating the
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: According to Talkin' 'Bout AI Generation, what copyright issues do the authors say they address, and which issues do they defer to other work?
+
+Answer:
+
+Based on the sources provided, the authors argue that copyright issues do not defer to other work, and that the authors' concerns about the copyrightability of generative AI systems are not addressed by the current copyright law. The authors also argue that the use of copyrighted works for generative AI systems' training data is a permitted fair use, but that this use may be subject to scrutiny in the future. The authors also discuss the potential implications of generative AI systems' use for copyright law, including the possibility that some generations may infringe copyright. The authors conclude that the ordinary business of copyright law still matters, and that courts will need to address copyright issues in the context of generative AI systems.
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[2] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 2
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: document_structure
+Preview: 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrighted works for AI systems’ trainin
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: document_structure
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, services, what the user prompts with, etc. Every single one of these steps could be under the control of a different person. Third, design 
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: document_structure
+Preview: Generations raise a doctrinal question that has been debated for decades: who, if anyone, owns the copyright in the output of a computer program [Samuelson 1985]? Although some have argued that the program itself should be regarded as the author, computer authorship is squarely foreclosed by U.S. co
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: document_structure
+Preview: engage with these choices — as will AI policy. Fourth, fair use is not a silver bullet . For a time, it seemed that training and using AI models would often constitute fair use. In such a world, AI development is generally a low-risk activity, at least from a copyright perspective. Yes, training dat
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: According to Talkin' 'Bout AI Generation, what copyright issues do the authors say they address, and which issues do they defer to other work?
+
+Answer:
+
+Based on the sources provided, the authors argue that copyright issues do not defer to other work, and that the authors' focus is on the copyright issues surrounding generative AI. The authors also state that copyright law can be used to address the concerns of copyright holders, and that copyright law can be used to address the concerns of generative AI developers. However, the authors do not stop mid-sentence and do not stop citing only the sources below. Therefore, the answer is "No, the authors do not stop citing only the sources below."
+
+REFERENCES:
+
+[1] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+[4] Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+[5] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 9
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, 2023, S. 6.31] — and included through express breach of confidence. Here, this factor will favor the plaintiff. Factor Three (“the amount a
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 11
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, services, what the user prompts with, etc. Every single one of these steps could be under the control of a different person. Third, design 
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: sentence
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 4
+Source: Rui-Jie Yew, "Break It 'Til You Make It: An Exploration of the Ramifications of Copyright Liability Under a Pre-training Paradigm of AI Development," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643707.
+Page: 9
+Chunking: sentence
+Preview: In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society , pages 385–395, 2022. Technological fair use. Talkin’‘bout ai generation: Copyright and the generative ai supply chain. A vailable at SSRN 4523551, 2023. How copyright law can fix artificial intelligence’s implicit bias probl
+
+Chunk 5
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 1
+Chunking: sentence
+Preview: ACM, New York, NY, USA, 12 pages. 1 INTRODUCTION Copyright is one of the leading legal and policy battlegrounds for generative AI. So far, debate has centered on the question of whether training an AI system is lawful under copyright law. Several scholars have convincingly posited that using copyrig
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: According to Talkin' 'Bout AI Generation, what copyright issues do the authors say they address, and which issues do they defer to other work?
+
+Answer:
+
+According to Talkin' 'Bout AI Generation, the authors say they address copyright issues by deferring to other work, and they do not stop mid-sentence. The sources cited in the text include:
+
+1. File: 3709025.3712208.pdf
+Page: 12
+Citation: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+
+2. File: 3614407.3643696.pdf
+Page: 5
+Citation: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+3. Text: Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version)
+Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi:
+
+REFERENCES:
+
+[1] Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+[2] Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: Michael P. Goodyear, "Artificial Infringement," Proceedings of the Symposium on Computer Science and Law on ZZZ, ACM, 2025, doi: 10.1145/3709025.3712208.
+Page: 12
+Chunking: semantic
+Preview: 2025. Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain. Journal of the Copyright Society (2025). Forthcoming.
+
+Chunk 2
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 5
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, in a copyright-infringement analysis. There are at least three ways the relationship could be described:40 • The user actively drives the g
+
+Chunk 3
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 2
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: (The Short Version), October 1, 2023, Lee*, Cooper*, & Grimmelmann* actor, and when infringement may occur, and discuss how the choices made by actors at one point in the supply chain affect the copyright risks faced by others (Section 3). • Detail broader lessons, inclu
+
+Chunk 4
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 1
+Chunking: semantic
+Preview: Talkin’ ‘Bout AI Generation: Copyright and the Generative-AI Supply Chain (The Short Version) Katherine Lee∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA A. Feder Cooper∗ The GenLaw Center San Francisco, CA, USA Cornell University Ithaca, NY, USA James Grimmelmann∗ The
+
+Chunk 5
+Source: Katherine Lee, A. Feder Cooper, James Grimmelmann, "Talkin' 'Bout AI Generation," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643696.
+Page: 6
+Chunking: semantic
+Preview: So far, the courts have held firm to this line for AI generations. Thaler [Thaler v. Perlmutter 2023] upheld the Copy- right Office’s refusal to register copyright in an image allegedly “autonomously created by a computer algorithm running on a ma- chine. ” The Copyright Office had held that the ima

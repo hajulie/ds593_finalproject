@@ -1,0 +1,209 @@
+
+================================================================================
+METHOD: fixed_size
+================================================================================
+Question: Which paper discusses KOSA, and what criticism does it make of KOSA's duty-of-care approach?
+
+Answer:
+
+Based on the sources provided, the paper discusses KOSA, a proposed law that aims to regulate online platforms for children's safety. The paper discusses the criticism of KOSA's duty-of-care approach, which focuses on outcomes rather than specific design requirements. The paper also notes that KOSA's Section 3 does not state specific design requirements, but rather focuses on outcomes. The paper concludes that KOSA's duty of care is different from explicit design requirements and consumer product safety frameworks, and that it focuses on outcomes rather than specific design requirements.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: fixed_size
+Preview: measures relating to the design or operation of the service,  providing a list of areas in which those measures can take  place (including regulatory compliance and risk management  arrangements, design of functionalities, algorithms, and other  features, and staff policies and practices). Finally, 
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 4
+Chunking: fixed_size
+Preview: visible to broader audiences [boyd 2014].    3 KOSA’s Duty of Care  While there are many design -based provisions in the Kids  Online Safety Act (KOSA), for the purposes of this paper we  want to center our analysis on its Section 3 – the “duty of care”  provision. The language in the Act, as report
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: fixed_size
+Preview: In the version of KOSA that was introduced in Congress in  May 2023, Section 3 began by requiring covered platforms to  act “in the best interests of a user that the platform knows or  reasonably should know is a minor.” The inclusion of this  defining element of a duty of loyalty – in addition to t
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: fixed_size
+Preview: “duties of care” invoked in other proposed US bills. Senator  Brian Schatz’s proposed Data Care Act, for example,  establishes a duty of care that requires online service  providers to “(A) reasonably secure individual identifying  data from unauthorized access; and (B) (…), promptly inform  an end 
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: fixed_size
+Preview: sponsorship of sports events) in order to protect public health  and safety.   KOSA’s duty of care is different from these explicit design  requirements and consumer product safety frameworks in at  least two ways. First, except for § 3(a)(5) – the restriction on  advertising certain products – Sect
+
+================================================================================
+METHOD: document_structure
+================================================================================
+Question: Which paper discusses KOSA, and what criticism does it make of KOSA's duty-of-care approach?
+
+Answer:
+
+Based on the provided sources, the paper discusses KOSA, a paper that proposes a duty of care for online service providers. The paper establishes a duty of care that requires online service providers to reasonably secure individual identifying data from unauthorized access, promptly inform end users of any breach of the duty, and ensure that harms such as anxiety or depression are not caused by the service. The paper also differentiates KOSA's duty of care from OSA's proposed duty of care, which requires providers of user-to-user services and providers of search services to take or use proportionate measures relating to the design or operation of the service to effectively mitigate and manage risks of harms identified in the most recent children's risk assessment of the service. The paper also differentiates KOSA's duty of care from explicit design requirements and consumer product safety frameworks in at least two ways. First, KOSA's duty of care is different from explicit design requirements and consumer product safety frameworks in that it does not state specific design requirements that should be avoided or implemented. Second, KOSA's duty of care is different from these frameworks in that it focuses on outcomes rather than specific design requirements. The paper also differentiates KOSA's duty of care from social media providers' Section 3, which requires them to take reasonable measures in the design and operation of any product, service, or feature to effectively mitigate and manage risks of harms identified in the most recent children's risk assessment of the service.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: document_structure
+Preview: establishes a duty of care that requires online service  providers to “(A) reasonably secure individual identifying  data from unauthorized access; and (B) (…), promptly inform  an end user of any breach of the duty (…) with respect to  sensitive data of that end user” [Schatz 2021]. KOSA’s duty of 
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: document_structure
+Preview: Second, OSA is more specific than KOSA about the possible  measures relating to the design or operation of the service,  providing a list of areas in which those measures can take  place (including regulatory compliance and risk management  arrangements, design of functionalities, algorithms, and ot
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: document_structure
+Preview: of any product, service, or feature) and outcomes (prevention  or mitigation of a list of harms). Thus, at first glance, it  appears that Section 3’s language was influenced by the  “safety duties protecting children” included in the UK's Online  Safety Act (OSA), which require providers of user -to
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: document_structure
+Preview: features are imposed (e.g., visible warnings in tobacco  packages; integral lap and shoulder seatbelts in vehicles), and  certain others are prohibited (e.g. ban of tobacco brand  sponsorship of sports events) in order to protect public health  and safety.   KOSA’s duty of care is different from the
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 4
+Chunking: document_structure
+Preview: media and mobile phones are directly causing harm to young  people. Conversely, technology studies scholar danah boyd  argues that social media renders young people’s struggles  visible to broader audiences [boyd 2014].    3 KOSA’s Duty of Care  While there are many design -based provisions in the K
+
+================================================================================
+METHOD: sentence
+================================================================================
+Question: Which paper discusses KOSA, and what criticism does it make of KOSA's duty-of-care approach?
+
+Answer:
+
+Based on the sources provided, the KOSA bill proposes a duty of care for online platforms to protect minors from online harms. The bill includes a section that requires online platforms to take reasonable measures to prevent or mitigate complex harms that experts have been trying to address for decades with mixed success. The bill also includes a duty of care provision that requires online platforms to take reasonable measures to prevent and mitigate the following:
+
+1. Bullying and cyberbullying
+2. Sexual exploitation and abuse
+3. Child pornography
+4. Child sexual abuse material
+5. Child exploitation material
+6. Child gambling
+7. Child trafficking
+8. Child labor
+9. Child prostitution
+10. Child prostitution and trafficking
+
+The bill also includes a duty of care provision that requires online platforms to take reasonable measures to prevent and mitigate the following:
+
+1. Child abuse and neglect
+2. Child neglect
+3. Child neglect resulting in death
+4. Child neglect resulting in serious bodily injury
+5. Child neglect resulting in sexual abuse
+6. Child neglect resulting in sexual exploitation
+7. Child neglect resulting in child pornography
+8. Child neglect resulting in child sexual abuse material
+9. Child neglect resulting in child gambling
+10. Child neglect resulting in child trafficking
+11. Child neglect resulting in child labor
+12. Child neglect resulting in child prostitution
+13. Child neglect resulting in child prostitution and trafficking
+
+The bill also includes a duty of care provision
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: sentence
+Preview: Therefore, more  than a copy, KOSA's Section 3 may be considered a watered - down version of OSA's proposed duty of care. KOSA’s duty of care can also be distinguished from other  “duties of care” invoked in other proposed US bills. Senator  Brian Schatz’s proposed Data Care Act, for example,  estab
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: sentence
+Preview: However, OSA’s duty of care differs from the one proposed  in KOSA in at least three ways. First, OSA does not include a  list of social harms, rather leaving it up to the services to  identify them through their children’s risk assessment. Second, OSA is more specific than KOSA about the possible  
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: sentence
+Preview: “If this was  childhood cancer or childhood car accidents, or if we had seen  these significant changes anywhere else ,” Utah’s governor  Spencer Cox told the New York Times, “we would all be losing  our minds about this” [Coaston 2023]. Indeed, KOSA includes some design requirements that are  equiv
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 3
+Chunking: sentence
+Preview: And proposed bills in the US and  abroad, such as the Data Care Act (2018), the Consumer  Online Privacy Rights Act (2019), the American Data Privacy  and Protection Act (2022), and the UK Online Safety Act  (2023), have already attempted to include all or some of these  types of duties [Hartzog and
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 4
+Chunking: sentence
+Preview: For some, technology is the cause of young  people’s problems; for others, it’s the symptom. For example,  psychologists like Jean Twenge and Jonathan Haidt [Haidt  2024; Twenge 2017; Twenge 2023a]  are adamant that social  media and mobile phones are directly causing harm to young  people. Converse
+
+================================================================================
+METHOD: semantic
+================================================================================
+Question: Which paper discusses KOSA, and what criticism does it make of KOSA's duty-of-care approach?
+
+Answer:
+
+The paper discusses KOSA, which is a proposed regulation in the United States that aims to address the safety concerns of children using social media platforms. The paper argues that KOSA's duty-of-care approach is flawed because it does not address the root causes of the negative outcomes that legislators want to prevent or mitigate. The paper also criticizes KOSA's design requirements, which are equivalent to those in the consumer product safety space, and its duty of care provision, which does not authorize an agency to promulgate rules in accordance with explicit design requirements or prohibitions. The paper suggests that KOSA's focus on conduct and outcomes is influenced by the UK's Online Safety Act, which requires providers of user-to-user services and providers of search services to take or use proportionate measures relating to the design or operation of the service to effectively mitigate and manage the risks of harms identified in the most recent children's risk assessment. The paper concludes that KOSA's duty-of-care approach is flawed and that legislators should focus on design fixes instead of complementing them with duty-of-care provisions.
+
+REFERENCES:
+
+[1] María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+
+RETRIEVED CHUNKS:
+
+Chunk 1
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 2
+Chunking: semantic
+Preview: They can’t drive when they’re 12”   [Lima-Strong 2023]. In defending regulations to influence the  design of social media, advocates also point to the history of  consumer product safety, such as regulations that require  automobile manufacturers to implement seatbelts while  separately requiring co
+
+Chunk 2
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 6
+Chunking: semantic
+Preview: Angel et al. respectively, to regulate those explicit design requirements  and prohibitions –, KOSA’s duty of care provision does not  authorize an agency to promulgate rules in accordance with 5  U.S.
+
+Chunk 3
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 5
+Chunking: semantic
+Preview: Instead, they focus  on conduct (reasonable measures in the design and operation  of any product, service, or feature) and outcomes (prevention  or mitigation of a list of harms). Thus, at first glance, it  appears that Section 3’s language was influenced by the  “safety duties protecting children” 
+
+Chunk 4
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 9
+Chunking: semantic
+Preview: that sit at the root of many of  the negative outcomes that legislators want to prevent or  mitigate. As good as the design fixes implemented by social  media platforms in response to KOSA’s duty of care can  possibly be, they will always need to be complemented by  94
+
+Chunk 5
+Source: María P. Angel, Danah Boyd, "Techno-legal Solutionism," Proceedings of the Symposium on Computer Science and Law, ACM, 2024, doi: 10.1145/3614407.3643705.
+Page: 11
+Chunking: semantic
+Preview: P. Goldberg. 2019. The Fiduciary Duty of Care. In The Oxford Handbook of  Fiduciary Law, Evan J. Criddle, Paul B.
