@@ -1,0 +1,126 @@
+\usepackage{xspace}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{openprob}[theorem]{Open Problem}
+\newtheorem{remk}[theorem]{Remark}
+\newtheorem{apdxlemma}{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{problem}{Problem}
+
+\newenvironment{remark}{\begin{remk}
+
+\begin{normalfont}}{\end{normalfont}
+\end{remk}}
+\newtheorem{sublemma}[theorem]{Sublemma}
+
+
+%%%%%%%%%%%%%%%%%%%%%%% text macros
+\newcommand{\etal}{{\it et~al.\ }}
+\newcommand{\ie} {{\it i.e.,\ }}
+\newcommand{\eg} {{\it e.g.,\ }}
+\newcommand{\cf}{{\it cf.,\ }}
+
+%%%%%%%%%%%%%%%%%%%%%%% general useful macros
+\newcommand{\eqdef}{\mathbin{\stackrel{\rm def}{=}}}
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\N}{{\mathbb{N}}}
+\newcommand{\Z}{{\mathbb Z}}
+\newcommand{\F}{{\mathbb F}}
+\newcommand{\poly}{{\mathrm{poly}}}
+\newcommand{\polylog}{{\mathrm{polylog}}}
+\newcommand{\loglog}{{\mathop{\mathrm{loglog}}}}
+\newcommand{\zo}{\{0,1\}}
+\newcommand{\suchthat}{{\;\; : \;\;}}
+\newcommand{\pr}[1]{\Pr\left[#1\right]}
+\newcommand{\deffont}{\em}
+\newcommand{\getsr}{\mathbin{\stackrel{\mbox{\tiny R}}{\gets}}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Var}{\mathop{\mathrm Var}\displaylimits}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\one}{\mathbf{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% linear algebra
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\spn}{\operatorname{span}}
+
+%%%%%%%%%%%%%%%%%%% macros particular to this course
+
+\newcommand{\mathprob}[1]{\mathsf{#1}}
+\newcommand{\SAT}{\mathprob{SAT}}
+\newcommand{\yes}{{\sc yes}}
+\newcommand{\no}{{\sc no}}
+
+\newcommand{\class}[1]{\mathbf{#1}}
+\newcommand{\TIME}{\class{DTIME}}
+\newcommand{\NTIME}{\class{NTIME}}
+\renewcommand{\P}{\class{P}}
+\newcommand{\NP}{\class{NP}}
+\newcommand{\coNP}{\class{coNP}}
+\newcommand{\BPP}{\class{BPP}}
+\newcommand{\BQP}{\class{BQP}}
+\newcommand{\RP}{\class{RP}}
+\newcommand{\coRP}{\class{coRP}}
+\newcommand{\ZPP}{\class{ZPP}}
+\newcommand{\MA}{\class{MA}}
+\newcommand{\AM}{\class{AM}}
+\newcommand{\Sigmacc}[1]{\class{\Sigma^p_{#1}}}
+\newcommand{\Picc}[1]{\class{\Pi^p_{#1}}}
+\newcommand{\SZK}{\class{SZK}}
+\newcommand{\PP}{\class{PP}}
+\newcommand{\sharpP}{\class{\#P}}
+\newcommand{\IP}{\class{IP}}
+\newcommand{\Ecc}{\class{E}}
+\newcommand{\EXP}{\class{EXP}}
+\newcommand{\NEXP}{\class{NEXP}}
+
+% PromiseRP
+\newcommand{\PromiseRP}{\ensuremath{\class{PromiseRP}}\xspace}
+\newcommand{\PiY}{\ensuremath{\Pi_Y}\xspace}
+\newcommand{\PiN}{\ensuremath{\Pi_N}\xspace}
+
+\newcommand{\SPACE}{\class{SPACE}}
+\newcommand{\NSPACE}{\class{NSPACE}}
+\renewcommand{\L}{\class{L}}
+\newcommand{\NL}{\class{NL}}
+\newcommand{\coNL}{\class{coNL}}
+\newcommand{\BPL}{\class{BPL}}
+\newcommand{\RL}{\class{RL}}
+\newcommand{\PSPACE}{\class{PSPACE}}
+
+\newcommand{\Ppoly}{\class{P_{/poly}}}
+\newcommand{\AC}{\class{AC}}
+\newcommand{\NC}{\class{NC}}
+\newcommand{\ACC}{\class{ACC}}
+
+\newcommand{\PCP}{\class{PCP}}
+
+\newcommand{\negl}{{\mathrm{neg}}}
+\newcommand{\sgn}{\operatorname{sgn}}
+
+\newcommand{\Enc}{\operatorname{Enc}}
+\newcommand{\Dec}{\operatorname{Dec}}
+
+%%%%%%Gates%%%%%%%%
+\newcommand{\THR}{\mathrm{THR}}
+\newcommand{\MAJ}{\mathrm{MAJ}}
+\newcommand{\AND}{\mathrm{AND}}
+\newcommand{\OR}{\mathrm{OR}}
+\newcommand{\XOR}{\mathrm{XOR}}
+
+%%%%%%%Functions%%%%%
+\newcommand{\EQ}{\mathrm{EQ}}
+\newcommand{\GT}{\mathrm{GT}}
+
+% hw2 
+\newcommand{\expectedvalue}{\ensuremath{\mathbb{E}}\xspace}
+
+% hw3
+\newcommand{\co}{\ensuremath{\class{co\text{-}}}\xspace}
