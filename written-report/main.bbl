@@ -1,0 +1,262 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{GMTL{\etalchar{+}}24}
+
+\bibitem[AB]{cryptobib}
+Michel Abdalla and Fabrice Benhamouda.
+\newblock {CryptoBib}.
+\newblock \url{https://cryptobib.di.ens.fr/}.
+\newblock BibTeX database for cryptography papers. Accessed May 1, 2026.
+
+\bibitem[AB24]{Angel_2024}
+María~P. Angel and Danah Boyd.
+\newblock Techno-legal solutionism: Regulating children’s online safety in the united states.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 86–97. ACM, March 2024.
+
+\bibitem[{ACM}26]{cslaw_2026}
+{ACM Symposium on Computer Science and Law}.
+\newblock {CS\&Law 2026}.
+\newblock \url{https://computersciencelaw.org/2026/}, 2026.
+\newblock 5th ACM Symposium on Computer Science and Law, March 3--5, 2026, Berkeley, California. Accessed May 2, 2026.
+
+\bibitem[AKN{\etalchar{+}}24]{Ash_2024}
+Elliott Ash, Aniket Kesari, Suresh Naidu, Lena Song, and Dominik Stammbach.
+\newblock Translating legalese: Enhancing public understanding of court opinions with legal summarizers.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 136–157. ACM, March 2024.
+
+\bibitem[BC24]{Benthall_2024}
+Sebastian Benthall and Rachel Cummings.
+\newblock Integrating differential privacy and contextual integrity.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 9–15. ACM, March 2024.
+
+\bibitem[BCGW22]{Bitan_2022}
+Dor Bitan, Ran Canetti, Shafi Goldwasser, and Rebecca Wexler.
+\newblock Using zero-knowledge to reconcile law enforcement secrecy and fair trial rights in criminal cases.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 9–22. ACM, November 2022.
+
+\bibitem[BDK{\etalchar{+}}25]{Ballesteros_2025}
+María Ballesteros, Cynthia Dwork, Gary King, Conlan Olson, and Manish Raghavan.
+\newblock Evaluating the impacts of swapping on the us decennial census.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 64–76. ACM, March 2025.
+
+\bibitem[BDOS22]{Bestavros_2022}
+Azer Bestavros, Stacey Dogan, Paul Ohm, and Andrew Sellars.
+\newblock Bridging the computer science -- law divide: Recommendations from the front lines.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 51–52. ACM, November 2022.
+
+\bibitem[BHL{\etalchar{+}}25]{Bellon_2025}
+Alex Bellon, Miro Haller, Andrey Labunets, Enze Liu, and Stefan Savage.
+\newblock An empirical analysis on the use and reporting of national security letters.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 39–54. ACM, March 2025.
+
+\bibitem[BNBK25]{Bernhard_2025}
+David Bernhard, Luka Nenadic, Stefan Bechtold, and Karel Kubicek.
+\newblock Multilingual scraper of privacy policies and terms of service.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 55–63. ACM, March 2025.
+
+\bibitem[BNP22]{Balsa_2022}
+Ero Balsa, Helen Nissenbaum, and Sunoo Park.
+\newblock Cryptography, trust and privacy: It’s complicated.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 167–179. ACM, November 2022.
+
+\bibitem[BS22]{Bloch_2022}
+Joshua Bloch and Pamela Samuelson.
+\newblock Some misconceptions about software in the copyright literature.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 131–141. ACM, November 2022.
+
+\bibitem[BZB{\etalchar{+}}22]{Burmeister_2022}
+Fabian Burmeister, Mickey Zar, Tilo Böhmann, Niva Elkin-Koren, Christian Kurtz, and Wolfgang Schulz.
+\newblock Toward architecture-driven interdisciplinary research: Learnings from a case study of covid-19 contact tracing apps.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 143–154. ACM, November 2022.
+
+\bibitem[CCVW25]{Chan_2025}
+Peter~K. Chan, Alyson Carrel, Mayank Varia, and Xiao Wang.
+\newblock Murmurs of the silenced: Secure reporting of misconduct settlements.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 121–135. ACM, March 2025.
+
+\bibitem[CFDS22]{Cooper_2022}
+A.~Feder Cooper, Jonathan Frankle, and Christopher De~Sa.
+\newblock Non-determinism and the lawlessness of machine learning code.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 1–8. ACM, November 2022.
+
+\bibitem[Cha]{chatgpt}
+Codex ChatGPT.
+\newblock I utilized ChatGPT and Codex to help with coding the RAG pipeline, debugging, and building evaluation test sets.
+
+\bibitem[CSV22]{Cohen_2022}
+Aloni Cohen, Sarah Scheffler, and Mayank Varia.
+\newblock Can the government compel decryption?: Don’t trust - verify.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 23–36. ACM, November 2022.
+
+\bibitem[DHSV24]{Dong_2024}
+Jinshuo Dong, Jason~D. Hartline, Liren Shan, and Aravindan Vijayaraghavan.
+\newblock Error-tolerant e-discovery protocols.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 24–35. ACM, March 2024.
+
+\bibitem[DHV22]{Dong_2022}
+Jinshuo Dong, Jason Hartline, and Aravindan Vijayaraghavan.
+\newblock Classification protocols with minimal disclosure.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 67–76. ACM, November 2022.
+
+\bibitem[DS22]{Duchin_2022}
+Moon Duchin and Douglas Spencer.
+\newblock Blind justice: Algorithms and neutrality in the case of redistricting.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 101–108. ACM, November 2022.
+
+\bibitem[DT25]{Doyle_2025}
+Colin Doyle and Aaron~D. Tucker.
+\newblock If you give an llm a legal practice guide.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 194–205. ACM, March 2025.
+
+\bibitem[fra26]{ollama_issue_15448}
+frankcsliu.
+\newblock {Apple M5 + macOS 26.3.1: 500 Internal Server Error, Metal compiler failed to build request even with OLLAMA\_NUM\_GPU=0}.
+\newblock GitHub issue, \url{https://github.com/ollama/ollama/issues/15448}, April 2026.
+\newblock Opened April 9, 2026. Accessed May 2, 2026.
+
+\bibitem[Gil24]{Gillis_2024}
+Talia~B. Gillis.
+\newblock Orthogonalizing inputs.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 1–8. ACM, March 2024.
+
+\bibitem[GMTL{\etalchar{+}}24]{Guitton_2024}
+Clement Guitton, Simon Mayer, Aurelia Tamò-Larrieux, Kimberly Garcia, and Nicoletta Fornara.
+\newblock A proxy for assessing the automatic encodability of regulation.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 121–131. ACM, March 2024.
+
+\bibitem[Goo25]{Goodyear_2025}
+Michael~P. Goodyear.
+\newblock Artificial infringement.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 26–38. ACM, March 2025.
+
+\bibitem[Gri22]{Grimmelmann_2022}
+James Grimmelmann.
+\newblock Programming languages and law: A research agenda.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 155–165. ACM, November 2022.
+
+\bibitem[GSK22]{Gunawan_2022}
+Johanna Gunawan, Cristiana Santos, and Irene Kamara.
+\newblock Redress for dark patterns privacy harms? a case study on consent interactions.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 181–194. ACM, November 2022.
+
+\bibitem[GTLN25]{Gordon_Tapiero_2025}
+Ayelet Gordon-Tapiero, Katrina Ligett, and Kobbi Nissim.
+\newblock On the rival nature of data: Tech and policy implications.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 17–25. ACM, March 2025.
+
+\bibitem[GTWL22]{Gordon_Tapiero_2022}
+Ayelet Gordon-Tapiero, Alexandra Wood, and Katrina Ligett.
+\newblock The case for establishing a collective perspective to address the harms of platform personalization.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 119–130. ACM, November 2022.
+
+\bibitem[GZA25]{Gray_2025}
+Morgan Gray, Li~Zhang, and Kevin~D. Ashley.
+\newblock Generating case-based legal arguments with llms.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 160–168. ACM, March 2025.
+
+\bibitem[HCAH22]{Henderson_2022}
+Peter Henderson, Ben Chugg, Brandon Anderson, and Daniel~E. Ho.
+\newblock Beyond ads: Sequential decision-making algorithms in law and public policy.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 87–100. ACM, November 2022.
+
+\bibitem[HHDP24]{Henderson_2024}
+Peter Henderson, Jieru Hu, Mona Diab, and Joelle Pineau.
+\newblock Rethinking machine learning benchmarks in the context of professional codes of conduct.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 109–120. ACM, March 2024.
+
+\bibitem[HLST22]{Hartline_2022}
+Jason~D. Hartline, Daniel~W. Linna, Liren Shan, and Alex Tang.
+\newblock Algorithmic learning foundations for common law.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 109–117. ACM, November 2022.
+
+\bibitem[HLZ24]{Hartline_2024}
+Jason~D. Hartline, Sheng Long, and Chenhao Zhang.
+\newblock Regulation of algorithmic collusion.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 98–108. ACM, March 2024.
+
+\bibitem[HWZ25]{Hartline_2025}
+Jason~D. Hartline, Chang Wang, and Chenhao Zhang.
+\newblock Regulation of algorithmic collusion, refined: Testing pessimistic calibrated regret.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 108–120. ACM, March 2025.
+
+\bibitem[JEC{\etalchar{+}}24]{Judson_2024}
+Samuel Judson, Matthew Elacqua, Filip Cano, Timos Antonopoulos, Bettina Könighofer, Scott~J. Shapiro, and Ruzica Piskac.
+\newblock ‘put the car on the stand’: Smt-based oracles for investigating decisions.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 73–85. ACM, March 2024.
+
+\bibitem[Kes22]{Kesari_2022}
+Aniket Kesari.
+\newblock The privacy-fairness-accuracy frontier: A computational law \& economics toolkit for making algorithmic tradeoffs.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 77–85. ACM, November 2022.
+
+\bibitem[KL25]{Kekulandara_2025}
+Madhukara Kekulandara and Edmund~A. Lamagna.
+\newblock A partial map mcmc algorithm for addressing racial gerrymandering challenges: A case study of alabama’s congressional districts.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 77–88. ACM, March 2025.
+
+\bibitem[LCG24]{Lee_2024}
+Katherine Lee, A.~Feder Cooper, and James Grimmelmann.
+\newblock Talkin’ ’bout ai generation: Copyright and the generative-ai supply chain (the short version).
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 48–63. ACM, March 2024.
+
+\bibitem[LRB25]{Laufer_2025}
+Benjamin Laufer, Manish Raghavan, and Solon Barocas.
+\newblock What constitutes a less discriminatory algorithm?
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 136–151. ACM, March 2025.
+
+\bibitem[MS25]{Meding_2025}
+Kristof Meding and Christoph Sorge.
+\newblock What constitutes a deep fake? the blurry line between legitimate processing and manipulation under the eu ai act.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 152–159. ACM, March 2025.
+
+\bibitem[{Oll}]{ollama_llama31}
+{Ollama}.
+\newblock {Llama 3.1}.
+\newblock \url{https://ollama.com/library/llama3.1}.
+\newblock Model library page. Accessed May 2, 2026.
+
+\bibitem[SAR{\etalchar{+}}25]{Sreedharan_2025}
+Sreekant Sreedharan, Melih Akdağ, Muthu Ramachandran, Erik Røseag, and Børge Rokseth.
+\newblock Legata - a domain language for maritime regulatory compliance.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 89–107. ACM, March 2025.
+
+\bibitem[SL24]{Shadmy_2024}
+Tomer Shadmy and Katrina Ligett.
+\newblock Reimagining decentralized ai.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 16–23. ACM, March 2024.
+
+\bibitem[SM24]{Scheffler_2024}
+Sarah Scheffler and Jonathan Mayer.
+\newblock Group moderation under end-to-end encryption.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 36–47. ACM, March 2024.
+
+\bibitem[STV22]{Scheffler_2022}
+Sarah Scheffler, Eran Tromer, and Mayank Varia.
+\newblock Formalizing human ingenuity: A quantitative framework for copyright law’s substantial similarity.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 37–49. ACM, November 2022.
+
+\bibitem[WVC{\etalchar{+}}22]{Walsh_2022}
+Julissa~Milligan Walsh, Mayank Varia, Aloni Cohen, Andrew Sellars, and Azer Bestavros.
+\newblock Multi-regulation computing: Examining the legal and policy questions that arise from secure multiparty computation.
+\newblock In {\em Proceedings of the 2022 Symposium on Computer Science and Law}, CSLAW ’22, page 53–65. ACM, November 2022.
+
+\bibitem[XSS25]{Xiao_2025}
+Madelyne Xiao, Andrew Sellars, and Sarah Scheffler.
+\newblock When anti-fraud laws become a barrier to computer science research.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 1–16. ACM, March 2025.
+
+\bibitem[Yal]{yale_jolt}
+Yale Law School, New Haven, CT.
+\newblock {\em Yale Journal of Law \& Technology}.
+\newblock Online journal.
+
+\bibitem[Yew24]{Yew_2024}
+Rui-Jie Yew.
+\newblock Break it ’til you make it: An exploration of the ramifications of copyright liability under a pre-training paradigm of ai development.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law}, CSLAW ’24, page 64–72. ACM, March 2024.
+
+\bibitem[ZGA{\etalchar{+}}25]{Zheng_2025}
+Lucia Zheng, Neel Guha, Javokhir Arifov, Sarah Zhang, Michal Skreta, Christopher~D. Manning, Peter Henderson, and Daniel~E. Ho.
+\newblock A reasoning-focused legal retrieval benchmark.
+\newblock In {\em Proceedings of the Symposium on Computer Science and Law on ZZZ}, CSLAW ’25, page 169–193. ACM, March 2025.
+
+\end{thebibliography}
